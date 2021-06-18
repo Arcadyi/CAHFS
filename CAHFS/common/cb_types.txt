@@ -125,6 +125,7 @@ establish_protectorate_BC_casus_belli
 establish_protectorate_NI_casus_belli
 establish_protectorate_casus_belli
 status_quo
+negotiated_state_transfer
 }
 
 # Great War CB's
@@ -10664,3 +10665,50 @@ steal_puppet = {
         # }
     # }
 # }
+
+#Negotiated State Transfer
+negotiated_state_transfer = {
+	sprite_index = 1
+	is_triggered_only = yes
+	months = 1
+	crisis = no
+	
+	construction_speed = 5
+
+	badboy_factor = 0
+	prestige_factor = 0
+	peace_cost_factor = 0
+	penalty_factor = 0
+
+	break_truce_prestige_factor = 0
+	break_truce_infamy_factor = 0
+	break_truce_militancy_factor = 0
+	truce_months = 1
+	
+	good_relation_prestige_factor = 0
+	good_relation_infamy_factor = 0
+	good_relation_militancy_factor = 0
+
+	can_use = {
+		number_of_states = 2 # annex if you want their last state
+		is_independant = yes
+		ai = no
+		THIS = { ai = no }
+	}
+	
+	allowed_states = {
+		not = { any_owned_province = { is_capital = yes } }
+	}
+
+	po_demand_state = yes
+	
+	war_name = WAR_NEGOTIATE_STATE_NAME
+	
+	on_add = {
+		move_issue_percentage = { 
+			from = jingoism 
+			to = pro_military
+			value = 0.00
+		}
+	}
+}
