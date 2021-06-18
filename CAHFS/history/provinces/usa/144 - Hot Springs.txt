@@ -1,5 +1,5 @@
-owner=CHN
-controller=CHN
-add_core=CAD
+owner=LOU
+controller=YUC
+add_core=LOU
 trade_goods = cotton
 life_rating = 35

@@ -1,5 +1,6 @@
-owner=CUB
-controller=CUB
+owner=USA
+controller=USA
+add_core=USA
 trade_goods = tobacco
 life_rating = 35
 naval_base = 1

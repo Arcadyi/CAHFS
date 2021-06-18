@@ -1,6 +1,6 @@
-owner=ICH
-controller=ICH
-add_core=ICH
+owner=CUB
+controller=CUB
+add_core=CUB
 trade_goods = coal
 life_rating = 35
 terrain = montane_forest

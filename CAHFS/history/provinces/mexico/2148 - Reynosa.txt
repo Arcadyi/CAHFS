@@ -1,4 +1,5 @@
-owner=YUC
+owner=NAH
 controller=NAH
+add_core=NAH
 trade_goods = coal
 life_rating = 35

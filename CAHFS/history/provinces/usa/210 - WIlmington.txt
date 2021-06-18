@@ -1,5 +1,6 @@
-owner=USA
-controller=ANV
+owner=CUB
+controller=CUB
+add_core=CUB
 add_core=USA
 trade_goods = cotton
 life_rating = 35
