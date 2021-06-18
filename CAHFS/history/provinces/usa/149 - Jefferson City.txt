@@ -1,2 +1,4 @@
+owner=CHN
+controller=CHN
 trade_goods = coal
 life_rating = 35

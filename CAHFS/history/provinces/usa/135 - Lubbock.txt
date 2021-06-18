@@ -1,5 +1,6 @@
-owner=YUC
-controller=YUC
+owner=NAH
+controller=NAH
+add_core=NAH
 add_core=YUC
 trade_goods = sulphur
 life_rating = 35

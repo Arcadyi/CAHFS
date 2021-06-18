@@ -1,5 +1,5 @@
-owner=YUG
-controller=YUG
+owner=GER
+controller=GER
 add_core=SER
 add_core=YUG
 trade_goods = grain
