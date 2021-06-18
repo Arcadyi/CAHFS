@@ -1579,12 +1579,12 @@ AJU_socialist;Socialist Party;Parti Socialiste;Sozialistische Partei;Partia Socj
 ANV;United République;Angevin;Angevin;Angevin;Angevin;Angevin;Angevin;Angevin;Angevin;Angevin;Angevin;Angevin;Angevin;x
 ANV_ADJ;United République;Angevin;Angevin;Angevin;Angevin;Angevin;Angevin;Angevin;Angevin;Angevin;Angevin;Angevin;x
 ANV_anarcho_liberal;Radical Party;Parti Radical;Radikale Partei;Partia Radykalna;Partido Radical;Partito Radicale;Radikális Párt;Radikální Strana;Radikális Párt;Radicale Partij;Partido Radical;0aaeeaeuiay Ia0oey;Radikaalipuolue;x
-ANV_communist;Communist Party;Parti Communiste;Kommunistische Partei;Partia Komunistyczna;Partido Comunista;Partito Comunista;Kommunista Párt;Komunistická Strana;Kommunista Párt;Communistische Partij;Partido Comunista;Eiiioienoe0aneay Ia0oey;Kommunistinenpuolue;x
-ANV_conservative;Conservative Party;Parti Conservateur;Konservative Partei;Partia Konserwatywna;Partido Conservador;Partito Conservatore;Konzervatív Párt;Konzervativní Strana;Konzervatív Párt;Conservatieve Partij;Partido Conservador;Eiina0aaoeaiay Ia0oey;Konservatiivipuolue;x
-ANV_fascist;Fascist Party;Parti Fasciste;Faschistische Partei;Partia Faszystowska;Partido Fascista;Partito Fascista;Fasiszta Párt;Fašistická Strana;Fasiszta Párt;Fascistische Partij;Partido Fascista;Oaoenoneay Ia0oey;Fasistinenpuolue;x
-ANV_liberal;Liberal Party;Parti Libéral;Liberale Partei;Partia Liberalna;Partido Liberal;Partito Liberale;Liberális Párt;Liberální Strana;Liberális Párt;Liberale Partij;Partido Liberal;Eeaa0aeuiay Ia0oey;Liberaalipuolue;x
-ANV_reactionary;National Party;Parti National;Nationale Partei;Partia Narodowa;Partido Nacional;Partito Nazionale;Nemzeti Párt;Národní Strana;Nemzeti Párt;Nationale Partij;Partido Nacional;Iaoeiiaeuiay Ia0oey;Kansallispuolue;x
-ANV_socialist;Socialist Party;Parti Socialiste;Sozialistische Partei;Partia Socjalistyczna;Partido Socialista;Partito Socialista;Szocialista Párt;Socialistická Strana;Szocialista Párt;Socialistische Partij;Partido Socialista;Nioeaeenoe0aneay Ia0oey;Sosialistinenpuolue;x
+ANV_communist;Commune Unie des Ravailleurs;Parti Communiste;Kommunistische Partei;Partia Komunistyczna;Partido Comunista;Partito Comunista;Kommunista Párt;Komunistická Strana;Kommunista Párt;Communistische Partij;Partido Comunista;Eiiioienoe0aneay Ia0oey;Kommunistinenpuolue;x
+ANV_conservative;Garde National;Parti Conservateur;Konservative Partei;Partia Konserwatywna;Partido Conservador;Partito Conservatore;Konzervatív Párt;Konzervativní Strana;Konzervatív Párt;Conservatieve Partij;Partido Conservador;Eiina0aaoeaiay Ia0oey;Konservatiivipuolue;x
+ANV_fascist;Parti de la Réclamation Nationale;Parti Fasciste;Faschistische Partei;Partia Faszystowska;Partido Fascista;Partito Fascista;Fasiszta Párt;Fašistická Strana;Fasiszta Párt;Fascistische Partij;Partido Fascista;Oaoenoneay Ia0oey;Fasistinenpuolue;x
+ANV_liberal;Parti de la Liberté et du Développement;Parti Libéral;Liberale Partei;Partia Liberalna;Partido Liberal;Partito Liberale;Liberális Párt;Liberální Strana;Liberális Párt;Liberale Partij;Partido Liberal;Eeaa0aeuiay Ia0oey;Liberaalipuolue;x
+ANV_reactionary;Coalition Nationale;Parti National;Nationale Partei;Partia Narodowa;Partido Nacional;Partito Nazionale;Nemzeti Párt;Národní Strana;Nemzeti Párt;Nationale Partij;Partido Nacional;Iaoeiiaeuiay Ia0oey;Kansallispuolue;x
+ANV_socialist;Syndicat des Travailleurs;Parti Socialiste;Sozialistische Partei;Partia Socjalistyczna;Partido Socialista;Partito Socialista;Szocialista Párt;Socialistická Strana;Szocialista Párt;Socialistische Partij;Partido Socialista;Nioeaeenoe0aneay Ia0oey;Sosialistinenpuolue;x
 ARL;Ardabil;Ardabil;Ardabil;Ardabil;Ardabil;Ardabil;Ardabil;Ardabil;Ardabil;Ardabil;Ardabil;Ardabil;Ardabil;x
 ARL_ADJ;Ardabili;ardabilienne;Ardabilisch;Ardabili;ardabilí;Ardabili;Ardabili;Ardabili;Ardabili;Ardabili;Ardabili;Ardabili;Ardabili;x
 ARL_anarcho_liberal;Radical Party;Parti Radical;Radikale Partei;Partia Radykalna;Partido Radical;Partito Radicale;Radikális Párt;Radikální Strana;Radikális Párt;Radicale Partij;Partido Radical;0aaeeaeuiay Ia0oey;Radikaalipuolue;x
@@ -2730,3 +2730,5 @@ ZUN_reactionary;National Party;Parti National;Nationale Partei;Partia Narodowa;P
 ZUN_socialist;Socialist Party;Parti Socialiste;Sozialistische Partei;Partia Socjalistyczna;Partido Socialista;Partito Socialista;Szocialista Párt;Socialistická Strana;Szocialista Párt;Socialistische Partij;Partido Socialista;Nioeaeenoe0aneay Ia0oey;Sosialistinenpuolue;x
 GER;Bundesrepublik Deutschland;;;;;;;;;;;;;;
 CAL;Californie;;;;;;;;;;;;;;
+SPA;Iberia;;;;;;;;;;;;;;
+SPA_ADJ;Iberian;;;;;;;;;;;;;;

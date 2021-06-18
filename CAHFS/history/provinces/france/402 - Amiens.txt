@@ -2,6 +2,6 @@ owner=ANV
 controller=ANV
 add_core=ANV
 trade_goods = fish
-life_rating = 45
+life_rating = 35
 naval_base = 1
 fort = 1

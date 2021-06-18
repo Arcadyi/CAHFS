@@ -31,13 +31,13 @@ press_rights=state_press
 trade_unions=state_controlled
 political_parties=underground_parties
 
-ruling_party = ANV_liberal
+ruling_party = ANV_reactionary
 upper_house = 
 {
 	fascist = 0
 	liberal = 15
-	conservative = 80
-	reactionary = 5
+	conservative = 5
+	reactionary = 80
 	anarcho_liberal = 0
 	socialist = 0
 	communist = 0
