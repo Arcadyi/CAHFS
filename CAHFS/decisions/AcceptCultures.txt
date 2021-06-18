@@ -1,0 +1,83 @@
+political_decisions = {
+    accept_german_cultures = {
+        picture = form_south_german_confederation
+        potential = {
+			tag = GER
+			NOT = { accepted_culture = swiss }
+        }
+
+        allow = {
+            owns = 375
+			owns = 603
+            revolution_n_counterrevolution = 1
+        }
+
+        effect = {
+            add_accepted_culture = swiss
+			add_accepted_culture = dutch
+        }
+
+        ai_will_do = { factor = 1 }
+    }
+	accept_angevin_cultures = {
+        picture = form_gallia
+        potential = {
+			tag = ANV
+			NOT = { accepted_culture = irish }
+        }
+
+        allow = {
+            owns = 263
+			owns = 269
+            revolution_n_counterrevolution = 1
+        }
+
+        effect = {
+            add_accepted_culture = irish
+			add_accepted_culture = scottish
+        }
+
+        ai_will_do = { factor = 1 }
+    }
+	accept_russian_cultures = {
+        picture = slav_thrace
+        potential = {
+			tag = RUS
+			NOT = { accepted_culture = ukrainian }
+        }
+
+        allow = {
+            owns = 963
+			owns = 343
+            revolution_n_counterrevolution = 1
+        }
+
+        effect = {
+            add_accepted_culture = ukrainian
+			add_accepted_culture = finnish
+        }
+
+        ai_will_do = { factor = 1 }
+    }
+	accept_spanish_cultures = {
+        picture = spanish_70
+        potential = {
+			tag = SPA
+			NOT = { accepted_culture = portuguese }
+        }
+
+        allow = {
+            owns = 521
+			owns = 513
+            revolution_n_counterrevolution = 1
+        }
+
+        effect = {
+            add_accepted_culture = portuguese
+			add_accepted_culture = galician
+			add_accepted_culture = andalucian
+        }
+        ai_will_do = { factor = 1 }
+    }
+
+}

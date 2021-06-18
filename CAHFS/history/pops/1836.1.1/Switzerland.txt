@@ -1119,49 +1119,49 @@
 
 	soldiers=
 	{
-		culture = south_german
+		culture = north_italian
 		religion = protestant
 		size= 118
 	}
 
 	artisans=
 	{
-		culture = south_german
+		culture = north_italian
 		religion = protestant
 		size= 1692
 	}
 
 	clergymen=
 	{
-		culture = south_german
+		culture = north_italian
 		religion = protestant
 		size= 157
 	}
 
 	bureaucrats=
 	{
-		culture = south_german
+		culture = north_italian
 		religion = protestant
 		size= 22
 	}
 
 	officers=
 	{
-		culture = south_german
+		culture = north_italian
 		religion = protestant
 		size= 16
 	}
 
 	aristocrats=
 	{
-		culture = south_german
+		culture = north_italian
 		religion = protestant
 		size= 203
 	}
 
 	farmers=
 	{
-		culture = south_german
+		culture = north_italian
 		religion = protestant
 		size= 3676
 	}
