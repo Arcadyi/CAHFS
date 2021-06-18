@@ -1,5 +1,6 @@
-owner=USA
+owner=CUB
 controller=CUB
+add_core=CUB
 add_core=CSA
 add_core=USA
 trade_goods = tobacco

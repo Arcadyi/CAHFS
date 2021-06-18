@@ -1,5 +1,5 @@
 owner=NAH
-controller=YUC
+controller=NAH
 add_core=NAH
 add_core=PIM
 trade_goods = cotton

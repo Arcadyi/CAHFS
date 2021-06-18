@@ -1,6 +1,6 @@
-owner=CIA
-controller=CIA
-add_core=CIA
+owner=CUB
+controller=CUB
+add_core=CUB
 trade_goods = coal
 life_rating = 35
 terrain = montane_forest
