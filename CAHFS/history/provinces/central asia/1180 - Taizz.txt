@@ -1,5 +1,5 @@
-owner=ETH
-controller=EGY
+owner=ADE
+controller=ADE
 add_core=ARA
 trade_goods = coffee
 life_rating = 35

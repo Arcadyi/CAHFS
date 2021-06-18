@@ -1,5 +1,5 @@
-owner=EGY
-controller=EGY
+owner=ABU
+controller=ABU
 add_core=ARA
 trade_goods = fruit
 life_rating = 31
