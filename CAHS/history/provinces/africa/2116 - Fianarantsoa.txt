@@ -1,0 +1,6 @@
+owner=SOF
+controller=SOF
+add_core=SOF
+trade_goods = tropical_wood
+life_rating = 35
+terrain = montane_forest

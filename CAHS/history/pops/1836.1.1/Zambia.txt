@@ -1,0 +1,912 @@
+790 = {
+	aristocrats=
+	{
+		culture = lunda
+		religion = animist
+		size= 250
+	}
+
+	clergymen=
+	{
+		culture = lunda
+		religion = animist
+		size= 150
+	}
+
+	artisans=
+	{
+		culture = lunda
+		religion = animist
+		size= 650
+	}
+
+	soldiers=
+	{
+		culture = lunda
+		religion = animist
+		size= 200
+	}
+
+	farmers=
+	{
+		culture = lunda
+		religion = animist
+		size= 12750
+	}
+
+	aristocrats=
+	{
+		culture = south_forest_bantu
+		religion = animist
+		size= 100
+	}
+
+	clergymen=
+	{
+		culture = south_forest_bantu
+		religion = animist
+		size= 150
+	}
+
+	artisans=
+	{
+		culture = south_forest_bantu
+		religion = animist
+		size= 300
+	}
+
+	soldiers=
+	{
+		culture = south_forest_bantu
+		religion = animist
+		size= 50
+	}
+
+	farmers=
+	{
+		culture = south_forest_bantu
+		religion = animist
+		size= 5400
+	}
+
+	slaves=
+	{
+		culture = south_forest_bantu
+		religion = animist
+		size= 2000
+	}
+
+}
+2012 = {
+	slaves=
+	{
+		culture = african_minor
+		religion = shamanism
+		size= 510
+	}
+
+	soldiers=
+	{
+		culture = african_minor
+		religion = shamanism
+		size= 33
+	}
+
+	artisans=
+	{
+		culture = african_minor
+		religion = shamanism
+		size= 41
+	}
+
+	clergymen=
+	{
+		culture = african_minor
+		religion = shamanism
+		size= 2
+	}
+
+	officers=
+	{
+		culture = african_minor
+		religion = shamanism
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = african_minor
+		religion = shamanism
+		size= 5
+	}
+
+	farmers=
+	{
+		culture = african_minor
+		religion = shamanism
+		size= 590
+	}
+
+	slaves=
+	{
+		culture = luba
+		religion = shamanism
+		size= 2146
+	}
+
+	soldiers=
+	{
+		culture = luba
+		religion = shamanism
+		size= 139
+	}
+
+	artisans=
+	{
+		culture = luba
+		religion = shamanism
+		size= 820
+	}
+
+	clergymen=
+	{
+		culture = luba
+		religion = shamanism
+		size= 38
+	}
+
+	bureaucrats=
+	{
+		culture = luba
+		religion = shamanism
+		size= 3
+	}
+
+	officers=
+	{
+		culture = luba
+		religion = shamanism
+		size= 12
+	}
+
+	aristocrats=
+	{
+		culture = luba
+		religion = shamanism
+		size= 98
+	}
+
+	farmers=
+	{
+		culture = luba
+		religion = shamanism
+		size= 1714
+	}
+
+}
+2013 = {
+	aristocrats=
+	{
+		culture = lunda
+		religion = animist
+		size= 225
+	}
+
+	bureaucrats=
+	{
+		culture = lunda
+		religion = animist
+		size= 10
+	}
+
+	officers=
+	{
+		culture = lunda
+		religion = animist
+		size= 65
+	}
+
+	clergymen=
+	{
+		culture = lunda
+		religion = animist
+		size= 125
+	}
+
+	artisans=
+	{
+		culture = lunda
+		religion = animist
+		size= 500
+	}
+
+	soldiers=
+	{
+		culture = lunda
+		religion = animist
+		size= 125
+	}
+
+	farmers=
+	{
+		culture = lunda
+		religion = animist
+		size= 8950
+	}
+
+	aristocrats=
+	{
+		culture = kavango
+		religion = animist
+		size= 10
+	}
+
+	clergymen=
+	{
+		culture = kavango
+		religion = animist
+		size= 25
+	}
+
+	artisans=
+	{
+		culture = kavango
+		religion = animist
+		size= 50
+	}
+
+	soldiers=
+	{
+		culture = kavango
+		religion = animist
+		size= 15
+	}
+
+	farmers=
+	{
+		culture = kavango
+		religion = animist
+		size= 900
+	}
+
+	slaves=
+	{
+		culture = kavango
+		religion = animist
+		size= 2000
+	}
+
+}
+2014 = {
+	slaves=
+	{
+		culture = lunda
+		religion = shamanism
+		size= 948
+	}
+
+	soldiers=
+	{
+		culture = chokwe
+		religion = shamanism
+		size= 117
+	}
+
+	artisans=
+	{
+		culture = chokwe
+		religion = shamanism
+		size= 220
+	}
+
+	clergymen=
+	{
+		culture = chokwe
+		religion = shamanism
+		size= 10
+	}
+
+	officers=
+	{
+		culture = chokwe
+		religion = shamanism
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = chokwe
+		religion = shamanism
+		size= 14
+	}
+
+	farmers=
+	{
+		culture = chokwe
+		religion = shamanism
+		size= 1846
+	}
+
+	slaves=
+	{
+		culture = lunda
+		religion = sunni
+		size= 1104
+	}
+
+	soldiers=
+	{
+		culture = chokwe
+		religion = sunni
+		size= 136
+	}
+
+	artisans=
+	{
+		culture = chokwe
+		religion = sunni
+		size= 650
+	}
+
+	clergymen=
+	{
+		culture = chokwe
+		religion = sunni
+		size= 30
+	}
+
+	bureaucrats=
+	{
+		culture = chokwe
+		religion = sunni
+		size= 2
+	}
+
+	officers=
+	{
+		culture = chokwe
+		religion = sunni
+		size= 12
+	}
+
+	aristocrats=
+	{
+		culture = chokwe
+		religion = sunni
+		size= 39
+	}
+
+	farmers=
+	{
+		culture = chokwe
+		religion = sunni
+		size= 1707
+	}
+
+	slaves=
+	{
+		culture = luba
+		religion = shamanism
+		size= 599
+	}
+
+	soldiers=
+	{
+		culture = luba
+		religion = shamanism
+		size= 74
+	}
+
+	artisans=
+	{
+		culture = luba
+		religion = shamanism
+		size= 366
+	}
+
+	clergymen=
+	{
+		culture = luba
+		religion = shamanism
+		size= 17
+	}
+
+	bureaucrats=
+	{
+		culture = luba
+		religion = shamanism
+		size= 1
+	}
+
+	officers=
+	{
+		culture = luba
+		religion = shamanism
+		size= 7
+	}
+
+	aristocrats=
+	{
+		culture = luba
+		religion = shamanism
+		size= 22
+	}
+
+	farmers=
+	{
+		culture = luba
+		religion = shamanism
+		size= 910
+	}
+
+}
+2015 = {
+	slaves=
+	{
+		culture = african_minor
+		religion = shamanism
+		size= 489
+	}
+
+	soldiers=
+	{
+		culture = african_minor
+		religion = shamanism
+		size= 88
+	}
+
+	artisans=
+	{
+		culture = african_minor
+		religion = shamanism
+		size= 44
+	}
+
+	clergymen=
+	{
+		culture = african_minor
+		religion = shamanism
+		size= 7
+	}
+
+	bureaucrats=
+	{
+		culture = african_minor
+		religion = shamanism
+		size= 2
+	}
+
+	officers=
+	{
+		culture = african_minor
+		religion = shamanism
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = african_minor
+		religion = shamanism
+		size= 9
+	}
+
+	farmers=
+	{
+		culture = african_minor
+		religion = shamanism
+		size= 3781
+	}
+
+	slaves=
+	{
+		culture = shona
+		religion = shamanism
+		size= 1507
+	}
+
+	soldiers=
+	{
+		culture = shona
+		religion = shamanism
+		size= 272
+	}
+
+	artisans=
+	{
+		culture = shona
+		religion = shamanism
+		size= 316
+	}
+
+	clergymen=
+	{
+		culture = shona
+		religion = shamanism
+		size= 51
+	}
+
+	bureaucrats=
+	{
+		culture = shona
+		religion = shamanism
+		size= 16
+	}
+
+	officers=
+	{
+		culture = shona
+		religion = shamanism
+		size= 10
+	}
+
+	aristocrats=
+	{
+		culture = shona
+		religion = shamanism
+		size= 66
+	}
+
+	farmers=
+	{
+		culture = shona
+		religion = shamanism
+		size= 11375
+	}
+
+	slaves=
+	{
+		culture = shona
+		religion = protestant
+		size= 550
+	}
+
+	soldiers=
+	{
+		culture = shona
+		religion = protestant
+		size= 99
+	}
+
+	artisans=
+	{
+		culture = shona
+		religion = protestant
+		size= 559
+	}
+
+	clergymen=
+	{
+		culture = shona
+		religion = protestant
+		size= 91
+	}
+
+	bureaucrats=
+	{
+		culture = shona
+		religion = protestant
+		size= 28
+	}
+
+	officers=
+	{
+		culture = shona
+		religion = protestant
+		size= 18
+	}
+
+	aristocrats=
+	{
+		culture = shona
+		religion = protestant
+		size= 117
+	}
+
+	farmers=
+	{
+		culture = shona
+		religion = protestant
+		size= 3507
+	}
+
+}
+2016 = {
+	aristocrats=
+	{
+		culture = lunda
+		religion = animist
+		size= 450
+	}
+
+	bureaucrats=
+	{
+		culture = lunda
+		religion = animist
+		size= 30
+	}
+
+	officers=
+	{
+		culture = lunda
+		religion = animist
+		size= 120
+	}
+
+	clergymen=
+	{
+		culture = lunda
+		religion = animist
+		size= 250
+	}
+
+	artisans=
+	{
+		culture = lunda
+		religion = animist
+		size= 1100
+	}
+
+	soldiers=
+	{
+		culture = lunda
+		religion = animist
+		size= 1150
+	}
+
+	farmers=
+	{
+		culture = lunda
+		religion = animist
+		size= 15000
+	}
+
+	aristocrats=
+	{
+		culture = south_forest_bantu
+		religion = animist
+		size= 300
+	}
+
+	clergymen=
+	{
+		culture = south_forest_bantu
+		religion = animist
+		size= 200
+	}
+
+	artisans=
+	{
+		culture = south_forest_bantu
+		religion = animist
+		size= 900
+	}
+
+	soldiers=
+	{
+		culture = south_forest_bantu
+		religion = animist
+		size= 200
+	}
+
+	farmers=
+	{
+		culture = south_forest_bantu
+		religion = animist
+		size= 16400
+	}
+
+	slaves=
+	{
+		culture = south_forest_bantu
+		religion = animist
+		size= 6000
+	}
+
+}
+2017 = {
+	slaves=
+	{
+		culture = luba
+		religion = shamanism
+		size= 6745
+	}
+
+	soldiers=
+	{
+		culture = luba
+		religion = shamanism
+		size= 545
+	}
+
+	artisans=
+	{
+		culture = luba
+		religion = shamanism
+		size= 1147
+	}
+
+	clergymen=
+	{
+		culture = luba
+		religion = shamanism
+		size= 187
+	}
+
+	bureaucrats=
+	{
+		culture = luba
+		religion = shamanism
+		size= 25
+	}
+
+	officers=
+	{
+		culture = luba
+		religion = shamanism
+		size= 49
+	}
+
+	aristocrats=
+	{
+		culture = luba
+		religion = shamanism
+		size= 280
+	}
+
+	farmers=
+	{
+		culture = luba
+		religion = shamanism
+		size= 19682
+	}
+
+}
+2018 = {
+	aristocrats=
+	{
+		culture = lunda
+		religion = animist
+		size= 100
+	}
+
+	clergymen=
+	{
+		culture = lunda
+		religion = animist
+		size= 50
+	}
+
+	artisans=
+	{
+		culture = lunda
+		religion = animist
+		size= 250
+	}
+
+	soldiers=
+	{
+		culture = lunda
+		religion = animist
+		size= 75
+	}
+
+	farmers=
+	{
+		culture = lunda
+		religion = animist
+		size= 3525
+	}
+
+	aristocrats=
+	{
+		culture = nyasa
+		religion = animist
+		size= 150
+	}
+
+	clergymen=
+	{
+		culture = nyasa
+		religion = animist
+		size= 75
+	}
+
+	artisans=
+	{
+		culture = nyasa
+		religion = animist
+		size= 400
+	}
+
+	soldiers=
+	{
+		culture = nyasa
+		religion = animist
+		size= 75
+	}
+
+	farmers=
+	{
+		culture = nyasa
+		religion = animist
+		size= 7300
+	}
+
+	slaves=
+	{
+		culture = nyasa
+		religion = animist
+		size= 2000
+	}
+
+	aristocrats=
+	{
+		culture = nguni
+		religion = animist
+		size= 100
+	}
+
+	clergymen=
+	{
+		culture = nguni
+		religion = animist
+		size= 100
+	}
+
+	artisans=
+	{
+		culture = nguni
+		religion = animist
+		size= 250
+	}
+
+	soldiers=
+	{
+		culture = nguni
+		religion = animist
+		size= 100
+	}
+
+	farmers=
+	{
+		culture = nguni
+		religion = animist
+		size= 4575
+	}
+
+	aristocrats=
+	{
+		culture = sena
+		religion = animist
+		size= 100
+	}
+
+	clergymen=
+	{
+		culture = sena
+		religion = animist
+		size= 100
+	}
+
+	artisans=
+	{
+		culture = sena
+		religion = animist
+		size= 200
+	}
+
+	soldiers=
+	{
+		culture = sena
+		religion = animist
+		size= 100
+	}
+
+	farmers=
+	{
+		culture = sena
+		religion = animist
+		size= 3650
+	}
+
+}

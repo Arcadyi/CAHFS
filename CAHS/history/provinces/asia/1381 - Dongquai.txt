@@ -1,0 +1,7 @@
+owner=DAI
+controller=DAI
+add_core=CHA
+add_core=IDO
+add_core=X01
+trade_goods = wool
+life_rating = 34

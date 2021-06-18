@@ -1,0 +1,5 @@
+owner=PER
+controller=MEW
+trade_goods = wool
+life_rating = 35
+terrain = dryhills

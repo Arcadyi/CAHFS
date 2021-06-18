@@ -1,0 +1,13 @@
+owner=RUS
+controller=RUS
+trade_goods = opium
+life_rating = 15
+terrain = desert
+colonial=2
+fort = 1
+state_building=
+{
+	level=1
+	building = canned_food_factory
+	upgrade = yes
+}

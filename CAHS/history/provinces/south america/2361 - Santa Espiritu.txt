@@ -1,0 +1,11 @@
+owner=URU
+controller=URU
+add_core=URU
+trade_goods = grain
+life_rating = 35
+state_building=
+{
+	level=1
+	building = small_arms_factory
+	upgrade = yes
+}

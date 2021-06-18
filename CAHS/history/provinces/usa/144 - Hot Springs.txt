@@ -1,0 +1,5 @@
+owner=CHN
+controller=CHN
+add_core=CAD
+trade_goods = cotton
+life_rating = 35

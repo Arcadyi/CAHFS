@@ -1,0 +1,9 @@
+owner=MUL
+controller=MUL
+add_core=HND
+add_core=MUL
+add_core=PTL
+add_core=SIN
+trade_goods = fruit
+life_rating = 35
+naval_base = 2

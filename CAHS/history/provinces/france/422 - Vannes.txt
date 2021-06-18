@@ -1,0 +1,6 @@
+owner=ANV
+controller=ANV
+add_core=BRT
+add_core=ANV
+trade_goods = fish
+life_rating = 45

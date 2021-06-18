@@ -1,0 +1,5 @@
+owner=PTE
+controller=PTE
+add_core=PTE
+trade_goods = precious_goods
+life_rating = 40

@@ -1,0 +1,955 @@
+1723 = {
+	slaves=
+	{
+		culture = chibchan
+		religion = animist
+		size= 260
+	}
+
+	soldiers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 8
+	}
+
+	farmers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 121
+	}
+
+	slaves=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 237
+	}
+
+	farmers=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 3
+	}
+
+	soldiers=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 7
+	}
+
+	farmers=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 105
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = protestant
+		size= 70
+	}
+
+	farmers=
+	{
+		culture = north_andean
+		religion = protestant
+		size= 105
+	}
+
+	soldiers=
+	{
+		culture = north_andean
+		religion = protestant
+		size= 8
+	}
+
+	artisans=
+	{
+		culture = north_andean
+		religion = protestant
+		size= 16
+	}
+
+	artisans=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 2
+	}
+
+	slaves=
+	{
+		culture = afro_brazilian
+		religion = totemism
+		size= 6
+	}
+
+	artisans=
+	{
+		culture = north_andean
+		religion = totemism
+		size= 4
+	}
+
+	clergymen=
+	{
+		culture = north_andean
+		religion = totemism
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = north_andean
+		religion = totemism
+		size= 3
+	}
+
+	slaves=
+	{
+		culture = afro_brazilian
+		religion = protestant
+		size= 1432
+	}
+
+	clergymen=
+	{
+		culture = north_andean
+		religion = protestant
+		size= 2
+	}
+
+	bureaucrats=
+	{
+		culture = north_andean
+		religion = protestant
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = north_andean
+		religion = protestant
+		size= 9
+	}
+
+	soldiers=
+	{
+		culture = brazilian
+		religion = protestant
+		size= 37
+	}
+
+	artisans=
+	{
+		culture = brazilian
+		religion = protestant
+		size= 97
+	}
+
+	clergymen=
+	{
+		culture = brazilian
+		religion = protestant
+		size= 16
+	}
+
+	bureaucrats=
+	{
+		culture = brazilian
+		religion = protestant
+		size= 5
+	}
+
+	officers=
+	{
+		culture = brazilian
+		religion = protestant
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = brazilian
+		religion = protestant
+		size= 61
+	}
+
+	farmers=
+	{
+		culture = brazilian
+		religion = protestant
+		size= 390
+	}
+
+}
+2204 = {
+	slaves=
+	{
+		culture = chibchan
+		religion = animist
+		size= 540
+	}
+
+	soldiers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 35
+	}
+
+	farmers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 1151
+	}
+
+	slaves=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 495
+	}
+
+	soldiers=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 30
+	}
+
+	soldiers=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 30
+	}
+
+	artisans=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 15
+	}
+
+	farmers=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 996
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = protestant
+		size= 146
+	}
+
+	soldiers=
+	{
+		culture = north_andean
+		religion = protestant
+		size= 37
+	}
+
+	artisans=
+	{
+		culture = north_andean
+		religion = protestant
+		size= 69
+	}
+
+	aristocrats=
+	{
+		culture = north_andean
+		religion = protestant
+		size= 44
+	}
+
+	farmers=
+	{
+		culture = north_andean
+		religion = protestant
+		size= 1128
+	}
+
+	clergymen=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 10
+	}
+
+	bureaucrats=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 1
+	}
+
+	slaves=
+	{
+		culture = afro_brazilian
+		religion = totemism
+		size= 13
+	}
+
+	soldiers=
+	{
+		culture = north_andean
+		religion = totemism
+		size= 1
+	}
+
+	artisans=
+	{
+		culture = north_andean
+		religion = totemism
+		size= 19
+	}
+
+	clergymen=
+	{
+		culture = north_andean
+		religion = totemism
+		size= 3
+	}
+
+	bureaucrats=
+	{
+		culture = north_andean
+		religion = totemism
+		size= 1
+	}
+
+	officers=
+	{
+		culture = north_andean
+		religion = totemism
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = north_andean
+		religion = totemism
+		size= 12
+	}
+
+	slaves=
+	{
+		culture = afro_brazilian
+		religion = protestant
+		size= 2979
+	}
+
+	clergymen=
+	{
+		culture = north_andean
+		religion = protestant
+		size= 11
+	}
+
+	bureaucrats=
+	{
+		culture = north_andean
+		religion = protestant
+		size= 3
+	}
+
+	officers=
+	{
+		culture = north_andean
+		religion = protestant
+		size= 2
+	}
+
+	soldiers=
+	{
+		culture = brazilian
+		religion = protestant
+		size= 162
+	}
+
+	artisans=
+	{
+		culture = brazilian
+		religion = protestant
+		size= 429
+	}
+
+	clergymen=
+	{
+		culture = brazilian
+		religion = protestant
+		size= 70
+	}
+
+	bureaucrats=
+	{
+		culture = brazilian
+		religion = protestant
+		size= 21
+	}
+
+	officers=
+	{
+		culture = brazilian
+		religion = protestant
+		size= 14
+	}
+
+	aristocrats=
+	{
+		culture = brazilian
+		religion = protestant
+		size= 270
+	}
+
+	farmers=
+	{
+		culture = brazilian
+		religion = protestant
+		size= 4601
+	}
+
+}
+2205 = {
+	slaves=
+	{
+		culture = chibchan
+		religion = animist
+		size= 120
+	}
+
+	soldiers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 6
+	}
+
+	farmers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 724
+	}
+
+	slaves=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 171
+	}
+
+	farmers=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 19
+	}
+
+	soldiers=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 12
+	}
+
+	artisans=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 16
+	}
+
+	farmers=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 963
+	}
+
+	slaves=
+	{
+		culture = afro_brazilian
+		religion = catholic
+		size= 649
+	}
+
+	soldiers=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 46
+	}
+
+	artisans=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 220
+	}
+
+	aristocrats=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 47
+	}
+
+	farmers=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 3505
+	}
+
+	clergymen=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 35
+	}
+
+	clergymen=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 3
+	}
+
+	slaves=
+	{
+		culture = afro_brazilian
+		religion = totemism
+		size= 8
+	}
+
+	soldiers=
+	{
+		culture = brazilian
+		religion = totemism
+		size= 1
+	}
+
+	artisans=
+	{
+		culture = brazilian
+		religion = totemism
+		size= 27
+	}
+
+	clergymen=
+	{
+		culture = brazilian
+		religion = totemism
+		size= 4
+	}
+
+	bureaucrats=
+	{
+		culture = brazilian
+		religion = totemism
+		size= 1
+	}
+
+	officers=
+	{
+		culture = brazilian
+		religion = totemism
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = brazilian
+		religion = totemism
+		size= 6
+	}
+
+	farmers=
+	{
+		culture = brazilian
+		religion = totemism
+		size= 9
+	}
+
+	bureaucrats=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 5
+	}
+
+	officers=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 4
+	}
+
+}
+2206 = {
+	slaves=
+	{
+		culture = chibchan
+		religion = animist
+		size= 124
+	}
+
+	soldiers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 6
+	}
+
+	farmers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 613
+	}
+
+	slaves=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 291
+	}
+
+	farmers=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 16
+	}
+
+	soldiers=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 17
+	}
+
+	artisans=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 1418
+	}
+
+	slaves=
+	{
+		culture = afro_brazilian
+		religion = catholic
+		size= 11
+	}
+
+	artisans=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 88
+	}
+
+	aristocrats=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 17
+	}
+
+	farmers=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 34
+	}
+
+	slaves=
+	{
+		culture = afro_brazilian
+		religion = orthodox
+		size= 534
+	}
+
+	soldiers=
+	{
+		culture = brazilian
+		religion = orthodox
+		size= 33
+	}
+
+	artisans=
+	{
+		culture = brazilian
+		religion = orthodox
+		size= 414
+	}
+
+	clergymen=
+	{
+		culture = brazilian
+		religion = orthodox
+		size= 31
+	}
+
+	aristocrats=
+	{
+		culture = brazilian
+		religion = orthodox
+		size= 78
+	}
+
+	farmers=
+	{
+		culture = brazilian
+		religion = orthodox
+		size= 2109
+	}
+
+	slaves=
+	{
+		culture = afro_brazilian
+		religion = protestant
+		size= 4
+	}
+
+	artisans=
+	{
+		culture = brazilian
+		religion = protestant
+		size= 16
+	}
+
+	clergymen=
+	{
+		culture = brazilian
+		religion = protestant
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = brazilian
+		religion = protestant
+		size= 3
+	}
+
+	bureaucrats=
+	{
+		culture = brazilian
+		religion = orthodox
+		size= 5
+	}
+
+	clergymen=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 6
+	}
+
+	bureaucrats=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 1
+	}
+
+	officers=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 1
+	}
+
+	officers=
+	{
+		culture = brazilian
+		religion = orthodox
+		size= 3
+	}
+
+}
+2208 = {
+	soldiers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 12
+	}
+
+	farmers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 595
+	}
+
+	farmers=
+	{
+		culture = north_andean
+		religion = catholic
+		size= 209
+	}
+
+	farmers=
+	{
+		culture = north_andean
+		religion = protestant
+		size= 322
+	}
+
+	soldiers=
+	{
+		culture = north_andean
+		religion = protestant
+		size= 7
+	}
+
+	artisans=
+	{
+		culture = north_andean
+		religion = protestant
+		size= 10
+	}
+
+	soldiers=
+	{
+		culture = north_andean
+		religion = catholic
+		size= 4
+	}
+
+	artisans=
+	{
+		culture = north_andean
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = north_andean
+		religion = catholic
+		size= 1
+	}
+
+	clergymen=
+	{
+		culture = north_andean
+		religion = protestant
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = north_andean
+		religion = protestant
+		size= 8
+	}
+
+	soldiers=
+	{
+		culture = brazilian
+		religion = protestant
+		size= 36
+	}
+
+	artisans=
+	{
+		culture = brazilian
+		religion = protestant
+		size= 107
+	}
+
+	clergymen=
+	{
+		culture = brazilian
+		religion = protestant
+		size= 17
+	}
+
+	bureaucrats=
+	{
+		culture = brazilian
+		religion = protestant
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = brazilian
+		religion = protestant
+		size= 89
+	}
+
+	officers=
+	{
+		culture = brazilian
+		religion = protestant
+		size= 3
+	}
+
+	farmers=
+	{
+		culture = brazilian
+		religion = protestant
+		size= 1538
+	}
+
+}

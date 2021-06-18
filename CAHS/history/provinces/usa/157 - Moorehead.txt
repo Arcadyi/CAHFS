@@ -1,0 +1,5 @@
+owner=KSK
+controller=NOV
+add_core=KSK
+trade_goods = timber
+life_rating = 35

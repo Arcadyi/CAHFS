@@ -1,0 +1,384 @@
+1201 = {
+	soldiers=
+	{
+		culture = uzbek
+		religion = sunni
+		size= 4691
+	}
+
+	artisans=
+	{
+		culture = uzbek
+		religion = sunni
+		size= 7139
+	}
+
+	clergymen=
+	{
+		culture = uzbek
+		religion = sunni
+		size= 663
+	}
+
+	bureaucrats=
+	{
+		culture = uzbek
+		religion = sunni
+		size= 71
+	}
+
+	officers=
+	{
+		culture = uzbek
+		religion = sunni
+		size= 148
+	}
+
+	aristocrats=
+	{
+		culture = uzbek
+		religion = sunni
+		size= 428
+	}
+
+	farmers=
+	{
+		culture = uzbek
+		religion = sunni
+		size= 37854
+	}
+
+}
+1207 = {
+	slaves=
+	{
+		culture = uzbek
+		religion = sunni
+		size= 5236
+	}
+
+	soldiers=
+	{
+		culture = uzbek
+		religion = sunni
+		size= 1759
+	}
+
+	artisans=
+	{
+		culture = uzbek
+		religion = sunni
+		size= 2199
+	}
+
+	clergymen=
+	{
+		culture = uzbek
+		religion = sunni
+		size= 102
+	}
+
+	bureaucrats=
+	{
+		culture = uzbek
+		religion = sunni
+		size= 16
+	}
+
+	officers=
+	{
+		culture = uzbek
+		religion = sunni
+		size= 33
+	}
+
+	aristocrats=
+	{
+		culture = uzbek
+		religion = sunni
+		size= 132
+	}
+
+	farmers=
+	{
+		culture = uzbek
+		religion = sunni
+		size= 21939
+	}
+
+	slaves=
+	{
+		culture = uzbek
+		religion = orthodox
+		size= 764
+	}
+
+	soldiers=
+	{
+		culture = uzbek
+		religion = orthodox
+		size= 257
+	}
+
+	artisans=
+	{
+		culture = uzbek
+		religion = orthodox
+		size= 2841
+	}
+
+	clergymen=
+	{
+		culture = uzbek
+		religion = orthodox
+		size= 132
+	}
+
+	bureaucrats=
+	{
+		culture = uzbek
+		religion = orthodox
+		size= 20
+	}
+
+	officers=
+	{
+		culture = uzbek
+		religion = orthodox
+		size= 43
+	}
+
+	aristocrats=
+	{
+		culture = uzbek
+		religion = orthodox
+		size= 170
+	}
+
+	farmers=
+	{
+		culture = uzbek
+		religion = orthodox
+		size= 357
+	}
+
+}
+1208 = {
+	slaves=
+	{
+		culture = uzbek
+		religion = shiite
+		size= 1658
+	}
+
+	soldiers=
+	{
+		culture = uzbek
+		religion = shiite
+		size= 1145
+	}
+
+	artisans=
+	{
+		culture = uzbek
+		religion = shiite
+		size= 109
+	}
+
+	clergymen=
+	{
+		culture = uzbek
+		religion = shiite
+		size= 5
+	}
+
+	officers=
+	{
+		culture = uzbek
+		religion = shiite
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = uzbek
+		religion = shiite
+		size= 13
+	}
+
+	farmers=
+	{
+		culture = uzbek
+		religion = shiite
+		size= 9519
+	}
+
+	slaves=
+	{
+		culture = uzbek
+		religion = sunni
+		size= 1655
+	}
+
+	soldiers=
+	{
+		culture = uzbek
+		religion = sunni
+		size= 1144
+	}
+
+	artisans=
+	{
+		culture = uzbek
+		religion = sunni
+		size= 2872
+	}
+
+	clergymen=
+	{
+		culture = uzbek
+		religion = sunni
+		size= 133
+	}
+
+	bureaucrats=
+	{
+		culture = uzbek
+		religion = sunni
+		size= 10
+	}
+
+	officers=
+	{
+		culture = uzbek
+		religion = sunni
+		size= 59
+	}
+
+	aristocrats=
+	{
+		culture = uzbek
+		religion = sunni
+		size= 345
+	}
+
+	farmers=
+	{
+		culture = uzbek
+		religion = sunni
+		size= 6216
+	}
+
+	slaves=
+	{
+		culture = uighur
+		religion = sunni
+		size= 1432
+	}
+
+	soldiers=
+	{
+		culture = uighur
+		religion = sunni
+		size= 989
+	}
+
+	artisans=
+	{
+		culture = uighur
+		religion = sunni
+		size= 1310
+	}
+
+	clergymen=
+	{
+		culture = uighur
+		religion = sunni
+		size= 61
+	}
+
+	bureaucrats=
+	{
+		culture = uighur
+		religion = sunni
+		size= 5
+	}
+
+	officers=
+	{
+		culture = uighur
+		religion = sunni
+		size= 27
+	}
+
+	aristocrats=
+	{
+		culture = uighur
+		religion = sunni
+		size= 158
+	}
+
+	farmers=
+	{
+		culture = uighur
+		religion = sunni
+		size= 6766
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = sunni
+		size= 234
+	}
+
+	soldiers=
+	{
+		culture = pashtun
+		religion = sunni
+		size= 162
+	}
+
+	artisans=
+	{
+		culture = pashtun
+		religion = sunni
+		size= 943
+	}
+
+	clergymen=
+	{
+		culture = pashtun
+		religion = sunni
+		size= 44
+	}
+
+	bureaucrats=
+	{
+		culture = pashtun
+		religion = sunni
+		size= 3
+	}
+
+	officers=
+	{
+		culture = pashtun
+		religion = sunni
+		size= 20
+	}
+
+	aristocrats=
+	{
+		culture = pashtun
+		religion = sunni
+		size= 113
+	}
+
+	farmers=
+	{
+		culture = pashtun
+		religion = sunni
+		size= 241
+	}
+
+}

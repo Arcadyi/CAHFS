@@ -1,0 +1,7 @@
+owner=AYR
+controller=REB
+add_core=AYR
+add_core=KBO
+trade_goods = cattle
+life_rating = 5
+terrain = semidesert

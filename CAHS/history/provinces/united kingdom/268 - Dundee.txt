@@ -1,0 +1,8 @@
+owner=ANV
+controller=ANV
+add_core=ENG
+add_core=ENL
+add_core=HSC
+add_core=SCO
+trade_goods = fish
+life_rating = 35

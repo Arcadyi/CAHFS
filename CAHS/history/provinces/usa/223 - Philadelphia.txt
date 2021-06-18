@@ -1,0 +1,5 @@
+owner=AGG
+controller=AGG
+add_core=AGG
+trade_goods = iron
+life_rating = 35

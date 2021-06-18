@@ -1,0 +1,6 @@
+owner=URU
+controller=X11
+add_core=URU
+trade_goods = fish
+life_rating = 35
+naval_base = 1

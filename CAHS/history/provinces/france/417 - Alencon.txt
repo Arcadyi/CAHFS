@@ -1,0 +1,5 @@
+owner=ANV
+controller=ANV
+add_core=ANV
+trade_goods = cotton
+life_rating = 45

@@ -1,0 +1,654 @@
+1887 = {
+	slaves=
+	{
+		culture = dyula
+		religion = shamanism
+		size= 800
+	}
+
+	soldiers=
+	{
+		culture = dyula
+		religion = shamanism
+		size= 165
+	}
+
+	artisans=
+	{
+		culture = dyula
+		religion = shamanism
+		size= 41
+	}
+
+	clergymen=
+	{
+		culture = dyula
+		religion = shamanism
+		size= 7
+	}
+
+	bureaucrats=
+	{
+		culture = dyula
+		religion = shamanism
+		size= 2
+	}
+
+	officers=
+	{
+		culture = dyula
+		religion = shamanism
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = dyula
+		religion = shamanism
+		size= 9
+	}
+
+	farmers=
+	{
+		culture = dyula
+		religion = shamanism
+		size= 15440
+	}
+
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = catholic
+		size= 861
+	}
+
+	soldiers=
+	{
+		culture = anglo_african
+		religion = catholic
+		size= 178
+	}
+
+	artisans=
+	{
+		culture = anglo_african
+		religion = catholic
+		size= 643
+	}
+
+	clergymen=
+	{
+		culture = anglo_african
+		religion = catholic
+		size= 104
+	}
+
+	bureaucrats=
+	{
+		culture = anglo_african
+		religion = catholic
+		size= 32
+	}
+
+	officers=
+	{
+		culture = anglo_african
+		religion = catholic
+		size= 13
+	}
+
+	aristocrats=
+	{
+		culture = anglo_african
+		religion = catholic
+		size= 135
+	}
+
+	farmers=
+	{
+		culture = anglo_african
+		religion = catholic
+		size= 15908
+	}
+
+	slaves=
+	{
+		culture = afro_brazilian
+		religion = catholic
+		size= 1294
+	}
+
+	soldiers=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 266
+	}
+
+	artisans=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 1749
+	}
+
+	clergymen=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 284
+	}
+
+	bureaucrats=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 87
+	}
+
+	officers=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 35
+	}
+
+	aristocrats=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 367
+	}
+
+	farmers=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 22559
+	}
+
+}
+1888 = {
+	slaves=
+	{
+		culture = dyula
+		religion = shamanism
+		size= 303
+	}
+
+	soldiers=
+	{
+		culture = dyula
+		religion = shamanism
+		size= 769
+	}
+
+	artisans=
+	{
+		culture = dyula
+		religion = shamanism
+		size= 17
+	}
+
+	clergymen=
+	{
+		culture = dyula
+		religion = shamanism
+		size= 6
+	}
+
+	officers=
+	{
+		culture = dyula
+		religion = shamanism
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = dyula
+		religion = shamanism
+		size= 4
+	}
+
+	farmers=
+	{
+		culture = dyula
+		religion = shamanism
+		size= 12632
+	}
+
+	slaves=
+	{
+		culture = dyula
+		religion = catholic
+		size= 3
+	}
+
+	soldiers=
+	{
+		culture = dyula
+		religion = catholic
+		size= 8
+	}
+
+	artisans=
+	{
+		culture = dyula
+		religion = catholic
+		size= 18
+	}
+
+	clergymen=
+	{
+		culture = dyula
+		religion = catholic
+		size= 6
+	}
+
+	officers=
+	{
+		culture = dyula
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = dyula
+		religion = catholic
+		size= 4
+	}
+
+	farmers=
+	{
+		culture = dyula
+		religion = catholic
+		size= 112
+	}
+
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = catholic
+		size= 333
+	}
+
+	soldiers=
+	{
+		culture = anglo_african
+		religion = catholic
+		size= 845
+	}
+
+	artisans=
+	{
+		culture = anglo_african
+		religion = catholic
+		size= 255
+	}
+
+	clergymen=
+	{
+		culture = anglo_african
+		religion = catholic
+		size= 83
+	}
+
+	bureaucrats=
+	{
+		culture = anglo_african
+		religion = catholic
+		size= 7
+	}
+
+	officers=
+	{
+		culture = anglo_african
+		religion = catholic
+		size= 14
+	}
+
+	aristocrats=
+	{
+		culture = anglo_african
+		religion = catholic
+		size= 53
+	}
+
+	farmers=
+	{
+		culture = anglo_african
+		religion = catholic
+		size= 13501
+	}
+
+	slaves=
+	{
+		culture = afro_brazilian
+		religion = catholic
+		size= 223
+	}
+
+	soldiers=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 567
+	}
+
+	artisans=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 492
+	}
+
+	clergymen=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 160
+	}
+
+	bureaucrats=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 12
+	}
+
+	officers=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 26
+	}
+
+	aristocrats=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 103
+	}
+
+	farmers=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 8548
+	}
+
+	slaves=
+	{
+		culture = afro_brazilian
+		religion = protestant
+		size= 271
+	}
+
+	soldiers=
+	{
+		culture = brazilian
+		religion = protestant
+		size= 687
+	}
+
+	artisans=
+	{
+		culture = brazilian
+		religion = protestant
+		size= 1273
+	}
+
+	clergymen=
+	{
+		culture = brazilian
+		religion = protestant
+		size= 414
+	}
+
+	bureaucrats=
+	{
+		culture = brazilian
+		religion = protestant
+		size= 32
+	}
+
+	officers=
+	{
+		culture = brazilian
+		religion = protestant
+		size= 67
+	}
+
+	aristocrats=
+	{
+		culture = brazilian
+		religion = protestant
+		size= 267
+	}
+
+	farmers=
+	{
+		culture = brazilian
+		religion = protestant
+		size= 9255
+	}
+
+}
+1889 = {
+	aristocrats=
+	{
+		culture = mande
+		religion = sunni
+		size= 475
+	}
+
+	clergymen=
+	{
+		culture = mande
+		religion = sunni
+		size= 250
+	}
+
+	artisans=
+	{
+		culture = mande
+		religion = sunni
+		size= 1250
+	}
+
+	soldiers=
+	{
+		culture = mande
+		religion = sunni
+		size= 250
+	}
+
+	farmers=
+	{
+		culture = mande
+		religion = sunni
+		size= 32775
+	}
+
+	aristocrats=
+	{
+		culture = mande
+		religion = animist
+		size= 100
+	}
+
+	clergymen=
+	{
+		culture = mande
+		religion = animist
+		size= 100
+	}
+
+	artisans=
+	{
+		culture = mande
+		religion = animist
+		size= 300
+	}
+
+	soldiers=
+	{
+		culture = mande
+		religion = animist
+		size= 100
+	}
+
+	farmers=
+	{
+		culture = mande
+		religion = animist
+		size= 35475
+	}
+
+}
+1890 = {
+	aristocrats=
+	{
+		culture = mande
+		religion = sunni
+		size= 200
+	}
+
+	clergymen=
+	{
+		culture = mande
+		religion = sunni
+		size= 100
+	}
+
+	artisans=
+	{
+		culture = mande
+		religion = sunni
+		size= 550
+	}
+
+	soldiers=
+	{
+		culture = mande
+		religion = sunni
+		size= 125
+	}
+
+	farmers=
+	{
+		culture = mande
+		religion = sunni
+		size= 15025
+	}
+
+	aristocrats=
+	{
+		culture = mande
+		religion = animist
+		size= 425
+	}
+
+	clergymen=
+	{
+		culture = mande
+		religion = animist
+		size= 225
+	}
+
+	artisans=
+	{
+		culture = mande
+		religion = animist
+		size= 1100
+	}
+
+	soldiers=
+	{
+		culture = mande
+		religion = animist
+		size= 225
+	}
+
+	farmers=
+	{
+		culture = mande
+		religion = animist
+		size= 65025
+	}
+
+}
+1891 = {
+	aristocrats=
+	{
+		culture = kru
+		religion = animist
+		size= 425
+	}
+
+	clergymen=
+	{
+		culture = afro_american
+		religion = animist
+		size= 250
+	}
+
+	artisans=
+	{
+		culture = afro_american
+		religion = animist
+		size= 1150
+	}
+
+	soldiers=
+	{
+		culture = kru
+		religion = animist
+		size= 250
+	}
+
+	farmers=
+	{
+		culture = kru
+		religion = animist
+		size= 5975
+	}
+
+	aristocrats=
+	{
+		culture = afro_american
+		religion = animist
+		size= 350
+	}
+
+	clergymen=
+	{
+		culture = afro_american
+		religion = animist
+		size= 200
+	}
+
+	artisans=
+	{
+		culture = afro_american
+		religion = animist
+		size= 950
+	}
+
+	soldiers=
+	{
+		culture = afro_american
+		religion = animist
+		size= 200
+	}
+
+	farmers=
+	{
+		culture = western_nigritic
+		religion = animist
+		size= 32300
+	}
+
+}

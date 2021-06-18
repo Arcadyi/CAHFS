@@ -1,0 +1,8 @@
+owner=SOF
+controller=SOF
+add_core=MAD
+add_core=SKA
+add_core=SOF
+trade_goods = wool
+life_rating = 35
+terrain = montane_forest

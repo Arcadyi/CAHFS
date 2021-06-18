@@ -1,0 +1,7 @@
+owner=CIA
+controller=CIA
+add_core=AGG
+add_core=CIA
+add_core=SUS
+trade_goods = iron
+life_rating = 35

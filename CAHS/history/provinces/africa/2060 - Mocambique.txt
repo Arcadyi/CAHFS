@@ -1,0 +1,6 @@
+owner=SPA
+controller=SPA
+add_core=SOF
+trade_goods = cotton
+life_rating = 35
+naval_base = 1

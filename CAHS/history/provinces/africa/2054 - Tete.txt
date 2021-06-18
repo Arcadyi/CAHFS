@@ -1,0 +1,6 @@
+owner=SOF
+controller=SOF
+add_core=MLW
+add_core=SOF
+trade_goods = precious_goods
+life_rating = 35

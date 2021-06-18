@@ -1,0 +1,6 @@
+owner=YUC
+controller=YUC
+add_core=XIU
+add_core=YUC
+trade_goods = iron
+life_rating = 35

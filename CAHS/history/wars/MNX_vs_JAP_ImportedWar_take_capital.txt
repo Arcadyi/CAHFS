@@ -1,0 +1,14 @@
+name = "Ming-Japanese Imperialist War"
+
+1764.1.13 = {
+	add_attacker = MNX
+	add_defender = JAP
+
+	war_goal = {
+		casus_belli = annex_core_country
+		actor = MNX
+		receiver = JAP
+		country = JAP
+		state_province_id = 1632
+	}
+}

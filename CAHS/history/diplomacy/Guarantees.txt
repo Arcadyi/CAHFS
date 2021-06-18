@@ -1,0 +1,32 @@
+guarantee=
+{
+	first="PER"
+	second="TRX"
+	start_date="1739.1.29"
+	end_date="1936.1.1"
+}
+
+guarantee=
+{
+	first="SOF"
+	second="PTE"
+	start_date="1763.9.2"
+	end_date="1936.1.1"
+}
+
+guarantee=
+{
+	first="VIJ"
+	second="BMN"
+	start_date="1692.5.13"
+	end_date="1936.1.1"
+}
+
+guarantee=
+{
+	first="ANV"
+	second="ITA"
+	start_date="1725.12.6"
+	end_date="1936.1.1"
+}
+

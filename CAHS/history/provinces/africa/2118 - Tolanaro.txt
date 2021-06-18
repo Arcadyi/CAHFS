@@ -1,0 +1,7 @@
+owner=SOF
+controller=SOF
+add_core=SOF
+trade_goods = grain
+life_rating = 35
+terrain = jungle
+naval_base = 2

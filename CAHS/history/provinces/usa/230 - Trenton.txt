@@ -1,0 +1,6 @@
+owner=AGG
+controller=AGG
+add_core=AGG
+trade_goods = fish
+life_rating = 35
+naval_base = 1

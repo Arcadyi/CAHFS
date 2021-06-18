@@ -1,0 +1,13 @@
+owner=ANV
+controller=ANV
+add_core=BEL
+add_core=WLL
+trade_goods = iron
+life_rating = 45
+fort = 1
+state_building=
+{
+	level=1
+	building = steel_factory
+	upgrade = yes
+}

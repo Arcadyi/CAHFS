@@ -1,0 +1,5 @@
+owner=KBO
+controller=BEN
+add_core=KBO
+trade_goods = cattle
+life_rating = 35

@@ -1,0 +1,9 @@
+owner=MUL
+controller=VIJ
+add_core=GUJ
+add_core=HND
+add_core=JGD
+add_core=MUL
+trade_goods = tobacco
+life_rating = 32
+naval_base = 1

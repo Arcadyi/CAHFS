@@ -1,0 +1,7 @@
+owner=TRI
+controller=TRI
+add_core=TRI
+add_core=TGT
+trade_goods = fruit
+life_rating = 32
+colonial=2

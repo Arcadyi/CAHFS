@@ -1,0 +1,6 @@
+owner=VRM
+controller=VRM
+add_core=ABE
+add_core=VRM
+trade_goods = timber
+life_rating = 35

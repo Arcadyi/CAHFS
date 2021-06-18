@@ -1,0 +1,2991 @@
+658 = {
+	soldiers=
+	{
+		culture = hawaiian
+		religion = animist
+		size= 253
+	}
+
+	artisans=
+	{
+		culture = hawaiian
+		religion = animist
+		size= 1016
+	}
+
+	clergymen=
+	{
+		culture = hawaiian
+		religion = animist
+		size= 165
+	}
+
+	officers=
+	{
+		culture = hawaiian
+		religion = animist
+		size= 21
+	}
+
+	aristocrats=
+	{
+		culture = hawaiian
+		religion = animist
+		size= 427
+	}
+
+	farmers=
+	{
+		culture = hawaiian
+		religion = animist
+		size= 23515
+	}
+
+	bureaucrats=
+	{
+		culture = hawaiian
+		religion = animist
+		size= 12
+	}
+
+}
+801 = {
+	soldiers=
+	{
+		culture = polynesian
+		religion = animist
+		size= 121
+	}
+
+	artisans=
+	{
+		culture = polynesian
+		religion = animist
+		size= 3
+	}
+
+	clergymen=
+	{
+		culture = polynesian
+		religion = animist
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = polynesian
+		religion = animist
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = polynesian
+		religion = animist
+		size= 1190
+	}
+
+	soldiers=
+	{
+		culture = polynesian
+		religion = catholic
+		size= 4
+	}
+
+	artisans=
+	{
+		culture = polynesian
+		religion = catholic
+		size= 4
+	}
+
+	clergymen=
+	{
+		culture = polynesian
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = polynesian
+		religion = catholic
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = polynesian
+		religion = catholic
+		size= 36
+	}
+
+	soldiers=
+	{
+		culture = australian
+		religion = catholic
+		size= 101
+	}
+
+	artisans=
+	{
+		culture = australian
+		religion = catholic
+		size= 18
+	}
+
+	clergymen=
+	{
+		culture = australian
+		religion = catholic
+		size= 6
+	}
+
+	officers=
+	{
+		culture = australian
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = australian
+		religion = catholic
+		size= 4
+	}
+
+	farmers=
+	{
+		culture = australian
+		religion = catholic
+		size= 971
+	}
+
+	soldiers=
+	{
+		culture = australian
+		religion = protestant
+		size= 27
+	}
+
+	artisans=
+	{
+		culture = australian
+		religion = protestant
+		size= 30
+	}
+
+	clergymen=
+	{
+		culture = australian
+		religion = protestant
+		size= 10
+	}
+
+	bureaucrats=
+	{
+		culture = australian
+		religion = protestant
+		size= 1
+	}
+
+	officers=
+	{
+		culture = australian
+		religion = protestant
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = australian
+		religion = protestant
+		size= 6
+	}
+
+	farmers=
+	{
+		culture = australian
+		religion = protestant
+		size= 215
+	}
+
+	soldiers=
+	{
+		culture = australienne
+		religion = protestant
+		size= 125
+	}
+
+	artisans=
+	{
+		culture = australienne
+		religion = protestant
+		size= 110
+	}
+
+	clergymen=
+	{
+		culture = australienne
+		religion = protestant
+		size= 36
+	}
+
+	bureaucrats=
+	{
+		culture = australienne
+		religion = protestant
+		size= 3
+	}
+
+	officers=
+	{
+		culture = australienne
+		religion = protestant
+		size= 8
+	}
+
+	aristocrats=
+	{
+		culture = australienne
+		religion = protestant
+		size= 23
+	}
+
+	farmers=
+	{
+		culture = australienne
+		religion = protestant
+		size= 1058
+	}
+
+}
+2336 = {
+	soldiers=
+	{
+		culture = polynesian
+		religion = animist
+		size= 8
+	}
+
+	farmers=
+	{
+		culture = polynesian
+		religion = animist
+		size= 133
+	}
+
+	soldiers=
+	{
+		culture = polynesian
+		religion = protestant
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = polynesian
+		religion = protestant
+		size= 9
+	}
+
+	farmers=
+	{
+		culture = australian
+		religion = catholic
+		size= 2
+	}
+
+	farmers=
+	{
+		culture = wolof
+		religion = shamanism
+		size= 4
+	}
+
+	farmers=
+	{
+		culture = wolof
+		religion = protestant
+		size= 1
+	}
+
+	artisans=
+	{
+		culture = french_canadian
+		religion = totemism
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = french_canadian
+		religion = totemism
+		size= 2
+	}
+
+	soldiers=
+	{
+		culture = andean_group_oceania_superregion_culture
+		religion = protestant
+		size= 5
+	}
+
+	artisans=
+	{
+		culture = andean_group_oceania_superregion_culture
+		religion = protestant
+		size= 4
+	}
+
+	clergymen=
+	{
+		culture = andean_group_oceania_superregion_culture
+		religion = protestant
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = andean_group_oceania_superregion_culture
+		religion = protestant
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = andean_group_oceania_superregion_culture
+		religion = protestant
+		size= 87
+	}
+
+	soldiers=
+	{
+		culture = sureno
+		religion = protestant
+		size= 23
+	}
+
+	artisans=
+	{
+		culture = sureno
+		religion = protestant
+		size= 22
+	}
+
+	clergymen=
+	{
+		culture = sureno
+		religion = protestant
+		size= 7
+	}
+
+	bureaucrats=
+	{
+		culture = sureno
+		religion = protestant
+		size= 1
+	}
+
+	officers=
+	{
+		culture = sureno
+		religion = protestant
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = sureno
+		religion = protestant
+		size= 5
+	}
+
+	farmers=
+	{
+		culture = sureno
+		religion = protestant
+		size= 351
+	}
+
+}
+2526 = {
+	soldiers=
+	{
+		culture = hawaiian
+		religion = animist
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = hawaiian
+		religion = animist
+		size= 134
+	}
+
+	artisans=
+	{
+		culture = hawaiian
+		religion = animist
+		size= 5
+	}
+
+	clergymen=
+	{
+		culture = hawaiian
+		religion = animist
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = hawaiian
+		religion = animist
+		size= 2
+	}
+
+}
+2540 = {
+	soldiers=
+	{
+		culture = polynesian
+		religion = animist
+		size= 25
+	}
+
+	artisans=
+	{
+		culture = polynesian
+		religion = animist
+		size= 12
+	}
+
+	clergymen=
+	{
+		culture = polynesian
+		religion = animist
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = polynesian
+		religion = animist
+		size= 3
+	}
+
+	farmers=
+	{
+		culture = polynesian
+		religion = animist
+		size= 1204
+	}
+
+	soldiers=
+	{
+		culture = polynesian
+		religion = orthodox
+		size= 2
+	}
+
+	artisans=
+	{
+		culture = polynesian
+		religion = orthodox
+		size= 15
+	}
+
+	clergymen=
+	{
+		culture = polynesian
+		religion = orthodox
+		size= 5
+	}
+
+	bureaucrats=
+	{
+		culture = polynesian
+		religion = orthodox
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = polynesian
+		religion = orthodox
+		size= 3
+	}
+
+	farmers=
+	{
+		culture = polynesian
+		religion = orthodox
+		size= 76
+	}
+
+	soldiers=
+	{
+		culture = yuzhny
+		religion = orthodox
+		size= 32
+	}
+
+	artisans=
+	{
+		culture = yuzhny
+		religion = orthodox
+		size= 90
+	}
+
+	clergymen=
+	{
+		culture = yuzhny
+		religion = orthodox
+		size= 29
+	}
+
+	bureaucrats=
+	{
+		culture = yuzhny
+		religion = orthodox
+		size= 3
+	}
+
+	officers=
+	{
+		culture = yuzhny
+		religion = orthodox
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = yuzhny
+		religion = orthodox
+		size= 19
+	}
+
+	farmers=
+	{
+		culture = yuzhny
+		religion = orthodox
+		size= 1411
+	}
+
+}
+2541 = {
+	soldiers=
+	{
+		culture = polynesian
+		religion = animist
+		size= 4
+	}
+
+	farmers=
+	{
+		culture = polynesian
+		religion = animist
+		size= 177
+	}
+
+	farmers=
+	{
+		culture = central_algonquian_oceania_superregion_culture
+		religion = totemism
+		size= 3
+	}
+
+	farmers=
+	{
+		culture = central_algonquian_oceania_superregion_culture
+		religion = orthodox
+		size= 5
+	}
+
+	farmers=
+	{
+		culture = nanren
+		religion = mahayana
+		size= 3
+	}
+
+	farmers=
+	{
+		culture = nanren
+		religion = orthodox
+		size= 7
+	}
+
+	farmers=
+	{
+		culture = janub
+		religion = sunni
+		size= 11
+	}
+
+	artisans=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 2
+	}
+
+	soldiers=
+	{
+		culture = noculture
+		religion = noreligion
+		size= 1
+	}
+
+	artisans=
+	{
+		culture = noculture
+		religion = noreligion
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = noculture
+		religion = noreligion
+		size= 35
+	}
+
+	artisans=
+	{
+		culture = noculture
+		religion = orthodox
+		size= 3
+	}
+
+	clergymen=
+	{
+		culture = noculture
+		religion = orthodox
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = noculture
+		religion = orthodox
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = noculture
+		religion = orthodox
+		size= 6
+	}
+
+	soldiers=
+	{
+		culture = yuzhny
+		religion = orthodox
+		size= 4
+	}
+
+	artisans=
+	{
+		culture = yuzhny
+		religion = orthodox
+		size= 13
+	}
+
+	clergymen=
+	{
+		culture = yuzhny
+		religion = orthodox
+		size= 4
+	}
+
+	bureaucrats=
+	{
+		culture = yuzhny
+		religion = orthodox
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = yuzhny
+		religion = orthodox
+		size= 3
+	}
+
+	farmers=
+	{
+		culture = yuzhny
+		religion = orthodox
+		size= 166
+	}
+
+}
+2542 = {
+	soldiers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 11
+	}
+
+	artisans=
+	{
+		culture = melanesian
+		religion = animist
+		size= 5
+	}
+
+	farmers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 327
+	}
+
+	artisans=
+	{
+		culture = melanesian
+		religion = orthodox
+		size= 7
+	}
+
+	farmers=
+	{
+		culture = melanesian
+		religion = orthodox
+		size= 4
+	}
+
+	artisans=
+	{
+		culture = yuzhny
+		religion = orthodox
+		size= 48
+	}
+
+	aristocrats=
+	{
+		culture = yuzhny
+		religion = orthodox
+		size= 10
+	}
+
+	soldiers=
+	{
+		culture = yuzhny
+		religion = orthodox
+		size= 12
+	}
+
+	clergymen=
+	{
+		culture = yuzhny
+		religion = orthodox
+		size= 6
+	}
+
+	farmers=
+	{
+		culture = yuzhny
+		religion = orthodox
+		size= 249
+	}
+
+	aristocrats=
+	{
+		culture = melanesian
+		religion = orthodox
+		size= 2
+	}
+
+}
+2543 = {
+	soldiers=
+	{
+		culture = micronesian
+		religion = animist
+		size= 22
+	}
+
+	artisans=
+	{
+		culture = micronesian
+		religion = animist
+		size= 7
+	}
+
+	aristocrats=
+	{
+		culture = micronesian
+		religion = animist
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = micronesian
+		religion = animist
+		size= 559
+	}
+
+	soldiers=
+	{
+		culture = micronesian
+		religion = catholic
+		size= 3
+	}
+
+	artisans=
+	{
+		culture = micronesian
+		religion = catholic
+		size= 8
+	}
+
+	clergymen=
+	{
+		culture = micronesian
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = micronesian
+		religion = catholic
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = micronesian
+		religion = catholic
+		size= 58
+	}
+
+	soldiers=
+	{
+		culture = micronesian
+		religion = orthodox
+		size= 6
+	}
+
+	artisans=
+	{
+		culture = micronesian
+		religion = orthodox
+		size= 22
+	}
+
+	clergymen=
+	{
+		culture = micronesian
+		religion = orthodox
+		size= 2
+	}
+
+	bureaucrats=
+	{
+		culture = micronesian
+		religion = orthodox
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = micronesian
+		religion = orthodox
+		size= 2
+	}
+
+	farmers=
+	{
+		culture = micronesian
+		religion = orthodox
+		size= 115
+	}
+
+	soldiers=
+	{
+		culture = yuzhny
+		religion = orthodox
+		size= 30
+	}
+
+	artisans=
+	{
+		culture = yuzhny
+		religion = orthodox
+		size= 108
+	}
+
+	clergymen=
+	{
+		culture = yuzhny
+		religion = orthodox
+		size= 8
+	}
+
+	bureaucrats=
+	{
+		culture = yuzhny
+		religion = orthodox
+		size= 3
+	}
+
+	officers=
+	{
+		culture = yuzhny
+		religion = orthodox
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = yuzhny
+		religion = orthodox
+		size= 10
+	}
+
+	farmers=
+	{
+		culture = yuzhny
+		religion = orthodox
+		size= 635
+	}
+
+	soldiers=
+	{
+		culture = polynesian
+		religion = animist
+		size= 13
+	}
+
+	farmers=
+	{
+		culture = polynesian
+		religion = animist
+		size= 332
+	}
+
+	soldiers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 31
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 794
+	}
+
+	soldiers=
+	{
+		culture = ontustik
+		religion = tengri_pagan_reformed
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = ontustik
+		religion = tengri_pagan_reformed
+		size= 29
+	}
+
+	soldiers=
+	{
+		culture = kanuri
+		religion = sunni
+		size= 11
+	}
+
+	farmers=
+	{
+		culture = kanuri
+		religion = sunni
+		size= 271
+	}
+
+	soldiers=
+	{
+		culture = bakongo
+		religion = shamanism
+		size= 3
+	}
+
+	farmers=
+	{
+		culture = bakongo
+		religion = shamanism
+		size= 78
+	}
+
+	soldiers=
+	{
+		culture = noculture
+		religion = noreligion
+		size= 4
+	}
+
+	farmers=
+	{
+		culture = noculture
+		religion = noreligion
+		size= 116
+	}
+
+	soldiers=
+	{
+		culture = siouan_oceania_superregion_culture
+		religion = totemism
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = siouan_oceania_superregion_culture
+		religion = totemism
+		size= 34
+	}
+
+	soldiers=
+	{
+		culture = phianam
+		religion = hindu
+		size= 5
+	}
+
+	farmers=
+	{
+		culture = phianam
+		religion = hindu
+		size= 131
+	}
+
+	soldiers=
+	{
+		culture = songhai
+		religion = shamanism
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = songhai
+		religion = shamanism
+		size= 21
+	}
+
+	soldiers=
+	{
+		culture = nanren
+		religion = tengri_pagan_reformed
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = nanren
+		religion = tengri_pagan_reformed
+		size= 35
+	}
+
+	soldiers=
+	{
+		culture = hausa
+		religion = sunni
+		size= 3
+	}
+
+	farmers=
+	{
+		culture = hausa
+		religion = sunni
+		size= 87
+	}
+
+	soldiers=
+	{
+		culture = dyula
+		religion = catholic
+		size= 7
+	}
+
+	artisans=
+	{
+		culture = dyula
+		religion = catholic
+		size= 31
+	}
+
+	farmers=
+	{
+		culture = dyula
+		religion = catholic
+		size= 152
+	}
+
+	soldiers=
+	{
+		culture = phianam
+		religion = animist
+		size= 3
+	}
+
+	artisans=
+	{
+		culture = phianam
+		religion = animist
+		size= 2
+	}
+
+	farmers=
+	{
+		culture = phianam
+		religion = animist
+		size= 64
+	}
+
+	soldiers=
+	{
+		culture = yoruba
+		religion = shamanism
+		size= 3
+	}
+
+	artisans=
+	{
+		culture = yoruba
+		religion = shamanism
+		size= 3
+	}
+
+	farmers=
+	{
+		culture = yoruba
+		religion = shamanism
+		size= 83
+	}
+
+	soldiers=
+	{
+		culture = nanren
+		religion = mahayana
+		size= 6
+	}
+
+	artisans=
+	{
+		culture = nanren
+		religion = mahayana
+		size= 7
+	}
+
+	clergymen=
+	{
+		culture = nanren
+		religion = mahayana
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = nanren
+		religion = mahayana
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = nanren
+		religion = mahayana
+		size= 153
+	}
+
+	soldiers=
+	{
+		culture = yi
+		religion = animist
+		size= 1
+	}
+
+	artisans=
+	{
+		culture = yi
+		religion = animist
+		size= 14
+	}
+
+	clergymen=
+	{
+		culture = yi
+		religion = animist
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = yi
+		religion = animist
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = yi
+		religion = animist
+		size= 15
+	}
+
+	clergymen=
+	{
+		culture = dyula
+		religion = catholic
+		size= 2
+	}
+
+	bureaucrats=
+	{
+		culture = dyula
+		religion = catholic
+		size= 1
+	}
+
+	officers=
+	{
+		culture = dyula
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = dyula
+		religion = catholic
+		size= 3
+	}
+
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 4
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 62
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 4
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 2
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 6
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 22
+	}
+
+	soldiers=
+	{
+		culture = phianam
+		religion = theravada
+		size= 45
+	}
+
+	artisans=
+	{
+		culture = phianam
+		religion = theravada
+		size= 227
+	}
+
+	clergymen=
+	{
+		culture = phianam
+		religion = theravada
+		size= 16
+	}
+
+	bureaucrats=
+	{
+		culture = phianam
+		religion = theravada
+		size= 6
+	}
+
+	officers=
+	{
+		culture = phianam
+		religion = theravada
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = phianam
+		religion = theravada
+		size= 21
+	}
+
+	farmers=
+	{
+		culture = phianam
+		religion = theravada
+		size= 872
+	}
+
+}
+2544 = {
+	soldiers=
+	{
+		culture = micronesian
+		religion = animist
+		size= 4
+	}
+
+	artisans=
+	{
+		culture = micronesian
+		religion = animist
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = micronesian
+		religion = animist
+		size= 89
+	}
+
+	artisans=
+	{
+		culture = micronesian
+		religion = catholic
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = micronesian
+		religion = catholic
+		size= 10
+	}
+
+	soldiers=
+	{
+		culture = micronesian
+		religion = orthodox
+		size= 1
+	}
+
+	artisans=
+	{
+		culture = micronesian
+		religion = orthodox
+		size= 3
+	}
+
+	farmers=
+	{
+		culture = micronesian
+		religion = orthodox
+		size= 20
+	}
+
+	soldiers=
+	{
+		culture = yuzhny
+		religion = orthodox
+		size= 5
+	}
+
+	artisans=
+	{
+		culture = yuzhny
+		religion = orthodox
+		size= 17
+	}
+
+	clergymen=
+	{
+		culture = yuzhny
+		religion = orthodox
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = yuzhny
+		religion = orthodox
+		size= 2
+	}
+
+	farmers=
+	{
+		culture = yuzhny
+		religion = orthodox
+		size= 102
+	}
+
+	soldiers=
+	{
+		culture = polynesian
+		religion = animist
+		size= 2
+	}
+
+	farmers=
+	{
+		culture = polynesian
+		religion = animist
+		size= 53
+	}
+
+	soldiers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 5
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 127
+	}
+
+	farmers=
+	{
+		culture = ontustik
+		religion = tengri_pagan_reformed
+		size= 5
+	}
+
+	farmers=
+	{
+		culture = kanuri
+		religion = sunni
+		size= 44
+	}
+
+	farmers=
+	{
+		culture = bakongo
+		religion = shamanism
+		size= 13
+	}
+
+	farmers=
+	{
+		culture = noculture
+		religion = noreligion
+		size= 20
+	}
+
+	farmers=
+	{
+		culture = siouan_oceania_superregion_culture
+		religion = totemism
+		size= 6
+	}
+
+	soldiers=
+	{
+		culture = kanuri
+		religion = sunni
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = phianam
+		religion = hindu
+		size= 21
+	}
+
+	farmers=
+	{
+		culture = songhai
+		religion = shamanism
+		size= 3
+	}
+
+	farmers=
+	{
+		culture = nanren
+		religion = tengri_pagan_reformed
+		size= 6
+	}
+
+	soldiers=
+	{
+		culture = hausa
+		religion = sunni
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = hausa
+		religion = sunni
+		size= 13
+	}
+
+	soldiers=
+	{
+		culture = dyula
+		religion = catholic
+		size= 2
+	}
+
+	farmers=
+	{
+		culture = dyula
+		religion = catholic
+		size= 24
+	}
+
+	farmers=
+	{
+		culture = phianam
+		religion = animist
+		size= 11
+	}
+
+	soldiers=
+	{
+		culture = yoruba
+		religion = shamanism
+		size= 1
+	}
+
+	artisans=
+	{
+		culture = yoruba
+		religion = shamanism
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = yoruba
+		religion = shamanism
+		size= 12
+	}
+
+	soldiers=
+	{
+		culture = nanren
+		religion = mahayana
+		size= 1
+	}
+
+	artisans=
+	{
+		culture = nanren
+		religion = mahayana
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = nanren
+		religion = mahayana
+		size= 25
+	}
+
+	artisans=
+	{
+		culture = yi
+		religion = animist
+		size= 2
+	}
+
+	farmers=
+	{
+		culture = yi
+		religion = animist
+		size= 3
+	}
+
+	artisans=
+	{
+		culture = dyula
+		religion = catholic
+		size= 5
+	}
+
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 10
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 3
+	}
+
+	soldiers=
+	{
+		culture = phianam
+		religion = theravada
+		size= 7
+	}
+
+	artisans=
+	{
+		culture = phianam
+		religion = theravada
+		size= 36
+	}
+
+	clergymen=
+	{
+		culture = phianam
+		religion = theravada
+		size= 3
+	}
+
+	bureaucrats=
+	{
+		culture = phianam
+		religion = theravada
+		size= 1
+	}
+
+	officers=
+	{
+		culture = phianam
+		religion = theravada
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = phianam
+		religion = theravada
+		size= 3
+	}
+
+	farmers=
+	{
+		culture = phianam
+		religion = theravada
+		size= 139
+	}
+
+}
+2545 = {
+	soldiers=
+	{
+		culture = polynesian
+		religion = animist
+		size= 40
+	}
+
+	artisans=
+	{
+		culture = polynesian
+		religion = animist
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = polynesian
+		religion = animist
+		size= 398
+	}
+
+	soldiers=
+	{
+		culture = polynesian
+		religion = catholic
+		size= 1
+	}
+
+	artisans=
+	{
+		culture = polynesian
+		religion = catholic
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = polynesian
+		religion = catholic
+		size= 13
+	}
+
+	soldiers=
+	{
+		culture = australian
+		religion = catholic
+		size= 34
+	}
+
+	artisans=
+	{
+		culture = australian
+		religion = catholic
+		size= 6
+	}
+
+	clergymen=
+	{
+		culture = australian
+		religion = catholic
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = australian
+		religion = catholic
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = australian
+		religion = catholic
+		size= 324
+	}
+
+	soldiers=
+	{
+		culture = australian
+		religion = protestant
+		size= 9
+	}
+
+	artisans=
+	{
+		culture = australian
+		religion = protestant
+		size= 10
+	}
+
+	clergymen=
+	{
+		culture = australian
+		religion = protestant
+		size= 3
+	}
+
+	officers=
+	{
+		culture = australian
+		religion = protestant
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = australian
+		religion = protestant
+		size= 2
+	}
+
+	farmers=
+	{
+		culture = australian
+		religion = protestant
+		size= 72
+	}
+
+	soldiers=
+	{
+		culture = australienne
+		religion = protestant
+		size= 42
+	}
+
+	artisans=
+	{
+		culture = australienne
+		religion = protestant
+		size= 37
+	}
+
+	clergymen=
+	{
+		culture = australienne
+		religion = protestant
+		size= 12
+	}
+
+	bureaucrats=
+	{
+		culture = australienne
+		religion = protestant
+		size= 1
+	}
+
+	officers=
+	{
+		culture = australienne
+		religion = protestant
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = australienne
+		religion = protestant
+		size= 8
+	}
+
+	farmers=
+	{
+		culture = australienne
+		religion = protestant
+		size= 351
+	}
+
+}
+2546 = {
+	soldiers=
+	{
+		culture = micronesian
+		religion = animist
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = micronesian
+		religion = animist
+		size= 23
+	}
+
+	farmers=
+	{
+		culture = micronesian
+		religion = catholic
+		size= 3
+	}
+
+	artisans=
+	{
+		culture = micronesian
+		religion = orthodox
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = micronesian
+		religion = orthodox
+		size= 5
+	}
+
+	soldiers=
+	{
+		culture = yuzhny
+		religion = orthodox
+		size= 1
+	}
+
+	artisans=
+	{
+		culture = yuzhny
+		religion = orthodox
+		size= 4
+	}
+
+	farmers=
+	{
+		culture = yuzhny
+		religion = orthodox
+		size= 27
+	}
+
+	soldiers=
+	{
+		culture = polynesian
+		religion = animist
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = polynesian
+		religion = animist
+		size= 13
+	}
+
+	soldiers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 32
+	}
+
+	farmers=
+	{
+		culture = ontustik
+		religion = tengri_pagan_reformed
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = kanuri
+		religion = sunni
+		size= 11
+	}
+
+	farmers=
+	{
+		culture = bakongo
+		religion = shamanism
+		size= 3
+	}
+
+	farmers=
+	{
+		culture = noculture
+		religion = noreligion
+		size= 4
+	}
+
+	farmers=
+	{
+		culture = siouan_oceania_superregion_culture
+		religion = totemism
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = phianam
+		religion = hindu
+		size= 6
+	}
+
+	farmers=
+	{
+		culture = songhai
+		religion = shamanism
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = nanren
+		religion = tengri_pagan_reformed
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = hausa
+		religion = sunni
+		size= 4
+	}
+
+	farmers=
+	{
+		culture = dyula
+		religion = catholic
+		size= 7
+	}
+
+	farmers=
+	{
+		culture = phianam
+		religion = animist
+		size= 3
+	}
+
+	farmers=
+	{
+		culture = yoruba
+		religion = shamanism
+		size= 4
+	}
+
+	farmers=
+	{
+		culture = nanren
+		religion = mahayana
+		size= 7
+	}
+
+	artisans=
+	{
+		culture = yi
+		religion = animist
+		size= 1
+	}
+
+	artisans=
+	{
+		culture = dyula
+		religion = catholic
+		size= 1
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 2
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 2
+	}
+
+	soldiers=
+	{
+		culture = phianam
+		religion = theravada
+		size= 2
+	}
+
+	artisans=
+	{
+		culture = phianam
+		religion = theravada
+		size= 9
+	}
+
+	clergymen=
+	{
+		culture = phianam
+		religion = theravada
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = phianam
+		religion = theravada
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = phianam
+		religion = theravada
+		size= 35
+	}
+
+}
+2547 = {
+	soldiers=
+	{
+		culture = micronesian
+		religion = animist
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = micronesian
+		religion = animist
+		size= 13
+	}
+
+	farmers=
+	{
+		culture = micronesian
+		religion = catholic
+		size= 2
+	}
+
+	artisans=
+	{
+		culture = micronesian
+		religion = orthodox
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = micronesian
+		religion = orthodox
+		size= 3
+	}
+
+	soldiers=
+	{
+		culture = yuzhny
+		religion = orthodox
+		size= 1
+	}
+
+	artisans=
+	{
+		culture = yuzhny
+		religion = orthodox
+		size= 3
+	}
+
+	farmers=
+	{
+		culture = yuzhny
+		religion = orthodox
+		size= 15
+	}
+
+	farmers=
+	{
+		culture = polynesian
+		religion = animist
+		size= 8
+	}
+
+	soldiers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 19
+	}
+
+	farmers=
+	{
+		culture = ontustik
+		religion = tengri_pagan_reformed
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = kanuri
+		religion = sunni
+		size= 7
+	}
+
+	farmers=
+	{
+		culture = bakongo
+		religion = shamanism
+		size= 2
+	}
+
+	farmers=
+	{
+		culture = noculture
+		religion = noreligion
+		size= 3
+	}
+
+	farmers=
+	{
+		culture = siouan_oceania_superregion_culture
+		religion = totemism
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = phianam
+		religion = hindu
+		size= 4
+	}
+
+	farmers=
+	{
+		culture = songhai
+		religion = shamanism
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = nanren
+		religion = tengri_pagan_reformed
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = hausa
+		religion = sunni
+		size= 2
+	}
+
+	farmers=
+	{
+		culture = dyula
+		religion = catholic
+		size= 4
+	}
+
+	farmers=
+	{
+		culture = phianam
+		religion = animist
+		size= 2
+	}
+
+	farmers=
+	{
+		culture = yoruba
+		religion = shamanism
+		size= 2
+	}
+
+	farmers=
+	{
+		culture = nanren
+		religion = mahayana
+		size= 4
+	}
+
+	farmers=
+	{
+		culture = yi
+		religion = animist
+		size= 1
+	}
+
+	artisans=
+	{
+		culture = dyula
+		religion = catholic
+		size= 1
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1
+	}
+
+	soldiers=
+	{
+		culture = phianam
+		religion = theravada
+		size= 1
+	}
+
+	artisans=
+	{
+		culture = phianam
+		religion = theravada
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = phianam
+		religion = theravada
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = phianam
+		religion = theravada
+		size= 21
+	}
+
+}
+2548 = {
+	soldiers=
+	{
+		culture = polynesian
+		religion = animist
+		size= 4
+	}
+
+	artisans=
+	{
+		culture = polynesian
+		religion = animist
+		size= 2
+	}
+
+	clergymen=
+	{
+		culture = polynesian
+		religion = animist
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = polynesian
+		religion = animist
+		size= 185
+	}
+
+	artisans=
+	{
+		culture = polynesian
+		religion = orthodox
+		size= 2
+	}
+
+	clergymen=
+	{
+		culture = polynesian
+		religion = orthodox
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = polynesian
+		religion = orthodox
+		size= 13
+	}
+
+	soldiers=
+	{
+		culture = yuzhny
+		religion = orthodox
+		size= 5
+	}
+
+	artisans=
+	{
+		culture = yuzhny
+		religion = orthodox
+		size= 14
+	}
+
+	clergymen=
+	{
+		culture = yuzhny
+		religion = orthodox
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = yuzhny
+		religion = orthodox
+		size= 3
+	}
+
+	farmers=
+	{
+		culture = yuzhny
+		religion = orthodox
+		size= 217
+	}
+
+}
+2551 = {
+	soldiers=
+	{
+		culture = polynesian
+		religion = animist
+		size= 8
+	}
+
+	artisans=
+	{
+		culture = polynesian
+		religion = animist
+		size= 4
+	}
+
+	clergymen=
+	{
+		culture = polynesian
+		religion = animist
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = polynesian
+		religion = animist
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = polynesian
+		religion = animist
+		size= 397
+	}
+
+	soldiers=
+	{
+		culture = polynesian
+		religion = catholic
+		size= 4
+	}
+
+	artisans=
+	{
+		culture = polynesian
+		religion = catholic
+		size= 8
+	}
+
+	clergymen=
+	{
+		culture = polynesian
+		religion = catholic
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = polynesian
+		religion = catholic
+		size= 2
+	}
+
+	farmers=
+	{
+		culture = polynesian
+		religion = catholic
+		size= 168
+	}
+
+	soldiers=
+	{
+		culture = polynesian
+		religion = protestant
+		size= 11
+	}
+
+	artisans=
+	{
+		culture = polynesian
+		religion = protestant
+		size= 33
+	}
+
+	clergymen=
+	{
+		culture = polynesian
+		religion = protestant
+		size= 11
+	}
+
+	bureaucrats=
+	{
+		culture = polynesian
+		religion = protestant
+		size= 2
+	}
+
+	officers=
+	{
+		culture = polynesian
+		religion = protestant
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = polynesian
+		religion = protestant
+		size= 7
+	}
+
+	farmers=
+	{
+		culture = polynesian
+		religion = protestant
+		size= 471
+	}
+
+}
+2552 = {
+	farmers=
+	{
+		culture = polynesian
+		religion = animist
+		size= 9
+	}
+
+	farmers=
+	{
+		culture = polynesian
+		religion = catholic
+		size= 4
+	}
+
+	artisans=
+	{
+		culture = polynesian
+		religion = protestant
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = polynesian
+		religion = protestant
+		size= 11
+	}
+
+}
+2553 = {
+	soldiers=
+	{
+		culture = polynesian
+		religion = animist
+		size= 10
+	}
+
+	artisans=
+	{
+		culture = polynesian
+		religion = animist
+		size= 5
+	}
+
+	clergymen=
+	{
+		culture = polynesian
+		religion = animist
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = polynesian
+		religion = animist
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = polynesian
+		religion = animist
+		size= 475
+	}
+
+	soldiers=
+	{
+		culture = polynesian
+		religion = catholic
+		size= 4
+	}
+
+	artisans=
+	{
+		culture = polynesian
+		religion = catholic
+		size= 9
+	}
+
+	clergymen=
+	{
+		culture = polynesian
+		religion = catholic
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = polynesian
+		religion = catholic
+		size= 2
+	}
+
+	farmers=
+	{
+		culture = polynesian
+		religion = catholic
+		size= 204
+	}
+
+	soldiers=
+	{
+		culture = polynesian
+		religion = protestant
+		size= 13
+	}
+
+	artisans=
+	{
+		culture = polynesian
+		religion = protestant
+		size= 40
+	}
+
+	clergymen=
+	{
+		culture = polynesian
+		religion = protestant
+		size= 13
+	}
+
+	bureaucrats=
+	{
+		culture = polynesian
+		religion = protestant
+		size= 2
+	}
+
+	officers=
+	{
+		culture = polynesian
+		religion = protestant
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = polynesian
+		religion = protestant
+		size= 8
+	}
+
+	farmers=
+	{
+		culture = polynesian
+		religion = protestant
+		size= 565
+	}
+
+}
+2623 = {
+	soldiers=
+	{
+		culture = hawaiian
+		religion = animist
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = hawaiian
+		religion = animist
+		size= 8
+	}
+
+	farmers=
+	{
+		culture = australian
+		religion = catholic
+		size= 1
+	}
+
+	soldiers=
+	{
+		culture = australian
+		religion = protestant
+		size= 1
+	}
+
+	artisans=
+	{
+		culture = australian
+		religion = protestant
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = australian
+		religion = protestant
+		size= 14
+	}
+
+}
+3249 = {
+	farmers=
+	{
+		culture = micronesian
+		religion = animist
+		size= 3
+	}
+
+	farmers=
+	{
+		culture = micronesian
+		religion = orthodox
+		size= 1
+	}
+
+	artisans=
+	{
+		culture = yuzhny
+		religion = orthodox
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = yuzhny
+		religion = orthodox
+		size= 3
+	}
+
+	farmers=
+	{
+		culture = polynesian
+		religion = animist
+		size= 2
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = animist
+		size= 4
+	}
+
+	farmers=
+	{
+		culture = kanuri
+		religion = sunni
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = nanren
+		religion = mahayana
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = dyula
+		religion = catholic
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1
+	}
+
+	artisans=
+	{
+		culture = phianam
+		religion = theravada
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = phianam
+		religion = theravada
+		size= 5
+	}
+
+}
+3319 = {
+	farmers=
+	{
+		culture = polynesian
+		religion = animist
+		size= 16
+	}
+
+	farmers=
+	{
+		culture = polynesian
+		religion = catholic
+		size= 7
+	}
+
+	artisans=
+	{
+		culture = polynesian
+		religion = protestant
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = polynesian
+		religion = protestant
+		size= 20
+	}
+
+}
+3320 = {
+	farmers=
+	{
+		culture = polynesian
+		religion = animist
+		size= 16
+	}
+
+	farmers=
+	{
+		culture = polynesian
+		religion = catholic
+		size= 7
+	}
+
+	artisans=
+	{
+		culture = polynesian
+		religion = protestant
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = polynesian
+		religion = protestant
+		size= 20
+	}
+
+}
+3321 = {
+	farmers=
+	{
+		culture = polynesian
+		religion = animist
+		size= 16
+	}
+
+	farmers=
+	{
+		culture = polynesian
+		religion = catholic
+		size= 7
+	}
+
+	artisans=
+	{
+		culture = polynesian
+		religion = protestant
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = polynesian
+		religion = protestant
+		size= 20
+	}
+
+}
+3322 = {
+	farmers=
+	{
+		culture = polynesian
+		religion = animist
+		size= 16
+	}
+
+	farmers=
+	{
+		culture = polynesian
+		religion = catholic
+		size= 7
+	}
+
+	artisans=
+	{
+		culture = polynesian
+		religion = protestant
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = polynesian
+		religion = protestant
+		size= 20
+	}
+
+}

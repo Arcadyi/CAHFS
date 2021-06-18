@@ -1,0 +1,8 @@
+owner=ANV
+controller=ANV
+add_core=ANV
+add_core=ENG
+add_core=ENL
+trade_goods = grain
+life_rating = 45
+fort = 1

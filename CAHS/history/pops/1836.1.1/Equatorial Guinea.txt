@@ -1,0 +1,249 @@
+1955 = {
+	slaves=
+	{
+		culture = yoruba
+		religion = shamanism
+		size= 189
+	}
+
+	soldiers=
+	{
+		culture = yoruba
+		religion = shamanism
+		size= 7
+	}
+
+	artisans=
+	{
+		culture = yoruba
+		religion = shamanism
+		size= 7
+	}
+
+	clergymen=
+	{
+		culture = yoruba
+		religion = shamanism
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = yoruba
+		religion = shamanism
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = yoruba
+		religion = shamanism
+		size= 485
+	}
+
+	slaves=
+	{
+		culture = yoruba
+		religion = catholic
+		size= 7
+	}
+
+	artisans=
+	{
+		culture = yoruba
+		religion = catholic
+		size= 7
+	}
+
+	clergymen=
+	{
+		culture = yoruba
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = yoruba
+		religion = catholic
+		size= 2
+	}
+
+	farmers=
+	{
+		culture = yoruba
+		religion = catholic
+		size= 9
+	}
+
+	slaves=
+	{
+		culture = afro_brazilian
+		religion = catholic
+		size= 352
+	}
+
+	soldiers=
+	{
+		culture = morado
+		religion = catholic
+		size= 13
+	}
+
+	artisans=
+	{
+		culture = morado
+		religion = catholic
+		size= 66
+	}
+
+	clergymen=
+	{
+		culture = morado
+		religion = catholic
+		size= 11
+	}
+
+	bureaucrats=
+	{
+		culture = morado
+		religion = catholic
+		size= 3
+	}
+
+	officers=
+	{
+		culture = morado
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = morado
+		religion = catholic
+		size= 14
+	}
+
+	farmers=
+	{
+		culture = morado
+		religion = catholic
+		size= 825
+	}
+
+}
+1973 = {
+	slaves=
+	{
+		culture = fang
+		religion = shamanism
+		size= 88
+	}
+
+	soldiers=
+	{
+		culture = fang
+		religion = shamanism
+		size= 63
+	}
+
+	artisans=
+	{
+		culture = fang
+		religion = shamanism
+		size= 126
+	}
+
+	clergymen=
+	{
+		culture = fang
+		religion = shamanism
+		size= 20
+	}
+
+	bureaucrats=
+	{
+		culture = fang
+		religion = shamanism
+		size= 2
+	}
+
+	officers=
+	{
+		culture = fang
+		religion = shamanism
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = fang
+		religion = shamanism
+		size= 26
+	}
+
+	farmers=
+	{
+		culture = fang
+		religion = shamanism
+		size= 5974
+	}
+
+	slaves=
+	{
+		culture = bakongo
+		religion = shamanism
+		size= 312
+	}
+
+	soldiers=
+	{
+		culture = bakongo
+		religion = shamanism
+		size= 224
+	}
+
+	artisans=
+	{
+		culture = bakongo
+		religion = shamanism
+		size= 1023
+	}
+
+	clergymen=
+	{
+		culture = bakongo
+		religion = shamanism
+		size= 166
+	}
+
+	bureaucrats=
+	{
+		culture = bakongo
+		religion = shamanism
+		size= 13
+	}
+
+	officers=
+	{
+		culture = bakongo
+		religion = shamanism
+		size= 33
+	}
+
+	aristocrats=
+	{
+		culture = bakongo
+		religion = shamanism
+		size= 215
+	}
+
+	farmers=
+	{
+		culture = bakongo
+		religion = shamanism
+		size= 20431
+	}
+
+}

@@ -1,0 +1,8 @@
+owner=MEW
+controller=MEW
+add_core=DLH
+add_core=HND
+add_core=MEW
+add_core=PNJ
+trade_goods = cotton
+life_rating = 32

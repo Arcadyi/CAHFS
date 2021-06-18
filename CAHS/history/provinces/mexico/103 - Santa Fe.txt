@@ -1,0 +1,5 @@
+owner=NAH
+controller=YUC
+add_core=NAH
+trade_goods = fruit
+life_rating = 35

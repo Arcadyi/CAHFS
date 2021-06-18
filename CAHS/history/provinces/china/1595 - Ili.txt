@@ -1,0 +1,8 @@
+owner=RUS
+controller=RUS
+add_core=OIR
+trade_goods = sulphur
+add_core=CHI
+add_core=MNX
+life_rating = 32
+colonial=2

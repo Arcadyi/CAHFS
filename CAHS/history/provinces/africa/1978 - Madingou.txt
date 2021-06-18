@@ -1,0 +1,6 @@
+owner=CKW
+controller=CKW
+add_core=CKW
+add_core=KON
+trade_goods = grain
+life_rating = 31

@@ -1,0 +1,11 @@
+owner=LOU
+controller=CUB
+add_core=LOU
+trade_goods = cotton
+life_rating = 35
+state_building=
+{
+	level=1
+	building = clipper_shipyard
+	upgrade = yes
+}

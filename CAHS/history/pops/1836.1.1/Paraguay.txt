@@ -1,0 +1,973 @@
+2337 = {
+	soldiers=
+	{
+		culture = chacoan
+		religion = animist
+		size= 3
+	}
+
+	artisans=
+	{
+		culture = chacoan
+		religion = animist
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = chacoan
+		religion = animist
+		size= 133
+	}
+
+	soldiers=
+	{
+		culture = aimara
+		religion = inti
+		size= 8
+	}
+
+	artisans=
+	{
+		culture = aimara
+		religion = inti
+		size= 5
+	}
+
+	clergymen=
+	{
+		culture = aimara
+		religion = inti
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = aimara
+		religion = inti
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = aimara
+		religion = inti
+		size= 380
+	}
+
+	artisans=
+	{
+		culture = falklander
+		religion = catholic
+		size= 67
+	}
+
+	clergymen=
+	{
+		culture = falklander
+		religion = catholic
+		size= 11
+	}
+
+	aristocrats=
+	{
+		culture = falklander
+		religion = catholic
+		size= 14
+	}
+
+	farmers=
+	{
+		culture = falklander
+		religion = catholic
+		size= 1153
+	}
+
+	soldiers=
+	{
+		culture = falklander
+		religion = catholic
+		size= 25
+	}
+
+	bureaucrats=
+	{
+		culture = falklander
+		religion = catholic
+		size= 3
+	}
+
+	officers=
+	{
+		culture = falklander
+		religion = catholic
+		size= 2
+	}
+
+}
+2338 = {
+	soldiers=
+	{
+		culture = chacoan
+		religion = animist
+		size= 3
+	}
+
+	farmers=
+	{
+		culture = chacoan
+		religion = animist
+		size= 135
+	}
+
+	soldiers=
+	{
+		culture = aimara
+		religion = inti
+		size= 9
+	}
+
+	artisans=
+	{
+		culture = aimara
+		religion = inti
+		size= 4
+	}
+
+	farmers=
+	{
+		culture = aimara
+		religion = inti
+		size= 455
+	}
+
+	artisans=
+	{
+		culture = falklander
+		religion = catholic
+		size= 67
+	}
+
+	artisans=
+	{
+		culture = chacoan
+		religion = animist
+		size= 1
+	}
+
+	clergymen=
+	{
+		culture = aimara
+		religion = inti
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = aimara
+		religion = inti
+		size= 1
+	}
+
+	clergymen=
+	{
+		culture = falklander
+		religion = catholic
+		size= 11
+	}
+
+	aristocrats=
+	{
+		culture = falklander
+		religion = catholic
+		size= 14
+	}
+
+	farmers=
+	{
+		culture = falklander
+		religion = catholic
+		size= 1089
+	}
+
+	soldiers=
+	{
+		culture = falklander
+		religion = catholic
+		size= 24
+	}
+
+	bureaucrats=
+	{
+		culture = falklander
+		religion = catholic
+		size= 3
+	}
+
+	officers=
+	{
+		culture = falklander
+		religion = catholic
+		size= 2
+	}
+
+}
+2339 = {
+	slaves=
+	{
+		culture = guarani
+		religion = animist
+		size= 1237
+	}
+
+	soldiers=
+	{
+		culture = guarani
+		religion = animist
+		size= 401
+	}
+
+	artisans=
+	{
+		culture = guarani
+		religion = animist
+		size= 201
+	}
+
+	clergymen=
+	{
+		culture = guarani
+		religion = animist
+		size= 33
+	}
+
+	bureaucrats=
+	{
+		culture = guarani
+		religion = animist
+		size= 10
+	}
+
+	officers=
+	{
+		culture = guarani
+		religion = animist
+		size= 7
+	}
+
+	aristocrats=
+	{
+		culture = guarani
+		religion = animist
+		size= 42
+	}
+
+	farmers=
+	{
+		culture = guarani
+		religion = animist
+		size= 18143
+	}
+
+	slaves=
+	{
+		culture = tupi
+		religion = animist
+		size= 1032
+	}
+
+	soldiers=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 335
+	}
+
+	artisans=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 536
+	}
+
+	clergymen=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 87
+	}
+
+	bureaucrats=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 27
+	}
+
+	officers=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 17
+	}
+
+	aristocrats=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 112
+	}
+
+	farmers=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 14598
+	}
+
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = catholic
+		size= 8019
+	}
+
+	soldiers=
+	{
+		culture = falklander
+		religion = catholic
+		size= 4133
+	}
+
+	artisans=
+	{
+		culture = falklander
+		religion = catholic
+		size= 5941
+	}
+
+	clergymen=
+	{
+		culture = falklander
+		religion = catholic
+		size= 965
+	}
+
+	bureaucrats=
+	{
+		culture = falklander
+		religion = catholic
+		size= 297
+	}
+
+	officers=
+	{
+		culture = falklander
+		religion = catholic
+		size= 193
+	}
+
+	aristocrats=
+	{
+		culture = falklander
+		religion = catholic
+		size= 1248
+	}
+
+	farmers=
+	{
+		culture = falklander
+		religion = catholic
+		size= 109310
+	}
+
+}
+2340 = {
+	soldiers=
+	{
+		culture = guarani
+		religion = animist
+		size= 46
+	}
+
+	farmers=
+	{
+		culture = guarani
+		religion = animist
+		size= 2204
+	}
+
+	artisans=
+	{
+		culture = guarani
+		religion = animist
+		size= 11
+	}
+
+	aristocrats=
+	{
+		culture = guarani
+		religion = animist
+		size= 4
+	}
+
+	clergymen=
+	{
+		culture = guarani
+		religion = animist
+		size= 1
+	}
+
+	soldiers=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 17
+	}
+
+	artisans=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 20
+	}
+
+	clergymen=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 3
+	}
+
+	bureaucrats=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 1
+	}
+
+	officers=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 8
+	}
+
+	farmers=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 818
+	}
+
+	soldiers=
+	{
+		culture = falklander
+		religion = catholic
+		size= 279
+	}
+
+	artisans=
+	{
+		culture = falklander
+		religion = catholic
+		size= 651
+	}
+
+	clergymen=
+	{
+		culture = falklander
+		religion = catholic
+		size= 106
+	}
+
+	bureaucrats=
+	{
+		culture = falklander
+		religion = catholic
+		size= 32
+	}
+
+	officers=
+	{
+		culture = falklander
+		religion = catholic
+		size= 22
+	}
+
+	aristocrats=
+	{
+		culture = falklander
+		religion = catholic
+		size= 274
+	}
+
+	farmers=
+	{
+		culture = falklander
+		religion = catholic
+		size= 12568
+	}
+
+}
+2341 = {
+	soldiers=
+	{
+		culture = guarani
+		religion = animist
+		size= 153
+	}
+
+	farmers=
+	{
+		culture = guarani
+		religion = animist
+		size= 7403
+	}
+
+	soldiers=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 15
+	}
+
+	farmers=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 720
+	}
+
+	artisans=
+	{
+		culture = guarani
+		religion = animist
+		size= 59
+	}
+
+	artisans=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 2
+	}
+
+	clergymen=
+	{
+		culture = guarani
+		religion = animist
+		size= 9
+	}
+
+	bureaucrats=
+	{
+		culture = guarani
+		religion = animist
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = guarani
+		religion = animist
+		size= 24
+	}
+
+	artisans=
+	{
+		culture = platinean
+		religion = protestant
+		size= 128
+	}
+
+	clergymen=
+	{
+		culture = platinean
+		religion = protestant
+		size= 20
+	}
+
+	bureaucrats=
+	{
+		culture = platinean
+		religion = protestant
+		size= 6
+	}
+
+	officers=
+	{
+		culture = platinean
+		religion = protestant
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = platinean
+		religion = protestant
+		size= 54
+	}
+
+	officers=
+	{
+		culture = guarani
+		religion = animist
+		size= 1
+	}
+
+	soldiers=
+	{
+		culture = platinean
+		religion = protestant
+		size= 23
+	}
+
+	farmers=
+	{
+		culture = platinean
+		religion = protestant
+		size= 965
+	}
+
+	soldiers=
+	{
+		culture = falklander
+		religion = protestant
+		size= 471
+	}
+
+	artisans=
+	{
+		culture = falklander
+		religion = protestant
+		size= 1133
+	}
+
+	clergymen=
+	{
+		culture = falklander
+		religion = protestant
+		size= 184
+	}
+
+	bureaucrats=
+	{
+		culture = falklander
+		religion = protestant
+		size= 57
+	}
+
+	officers=
+	{
+		culture = falklander
+		religion = protestant
+		size= 37
+	}
+
+	aristocrats=
+	{
+		culture = falklander
+		religion = protestant
+		size= 476
+	}
+
+	farmers=
+	{
+		culture = falklander
+		religion = protestant
+		size= 21197
+	}
+
+}
+2342 = {
+	slaves=
+	{
+		culture = guarani
+		religion = animist
+		size= 297
+	}
+
+	soldiers=
+	{
+		culture = guarani
+		religion = animist
+		size= 54
+	}
+
+	artisans=
+	{
+		culture = guarani
+		religion = animist
+		size= 27
+	}
+
+	clergymen=
+	{
+		culture = guarani
+		religion = animist
+		size= 4
+	}
+
+	bureaucrats=
+	{
+		culture = guarani
+		religion = animist
+		size= 1
+	}
+
+	officers=
+	{
+		culture = guarani
+		religion = animist
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = guarani
+		religion = animist
+		size= 6
+	}
+
+	farmers=
+	{
+		culture = guarani
+		religion = animist
+		size= 2297
+	}
+
+	slaves=
+	{
+		culture = tupi
+		religion = animist
+		size= 248
+	}
+
+	soldiers=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 45
+	}
+
+	artisans=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 72
+	}
+
+	clergymen=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 12
+	}
+
+	bureaucrats=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 4
+	}
+
+	officers=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 15
+	}
+
+	farmers=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 1843
+	}
+
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = catholic
+		size= 1927
+	}
+
+	soldiers=
+	{
+		culture = falklander
+		religion = catholic
+		size= 348
+	}
+
+	artisans=
+	{
+		culture = falklander
+		religion = catholic
+		size= 795
+	}
+
+	clergymen=
+	{
+		culture = falklander
+		religion = catholic
+		size= 129
+	}
+
+	bureaucrats=
+	{
+		culture = falklander
+		religion = catholic
+		size= 40
+	}
+
+	officers=
+	{
+		culture = falklander
+		religion = catholic
+		size= 26
+	}
+
+	aristocrats=
+	{
+		culture = falklander
+		religion = catholic
+		size= 167
+	}
+
+	farmers=
+	{
+		culture = falklander
+		religion = catholic
+		size= 13985
+	}
+
+}
+2343 = {
+	soldiers=
+	{
+		culture = guarani
+		religion = animist
+		size= 9
+	}
+
+	artisans=
+	{
+		culture = guarani
+		religion = animist
+		size= 2
+	}
+
+	farmers=
+	{
+		culture = guarani
+		religion = animist
+		size= 446
+	}
+
+	soldiers=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 9
+	}
+
+	artisans=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 7
+	}
+
+	clergymen=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 450
+	}
+
+	soldiers=
+	{
+		culture = falklander
+		religion = catholic
+		size= 60
+	}
+
+	artisans=
+	{
+		culture = falklander
+		religion = catholic
+		size= 147
+	}
+
+	clergymen=
+	{
+		culture = falklander
+		religion = catholic
+		size= 24
+	}
+
+	bureaucrats=
+	{
+		culture = falklander
+		religion = catholic
+		size= 7
+	}
+
+	officers=
+	{
+		culture = falklander
+		religion = catholic
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = falklander
+		religion = catholic
+		size= 31
+	}
+
+	farmers=
+	{
+		culture = falklander
+		religion = catholic
+		size= 2701
+	}
+
+}

@@ -1,0 +1,7 @@
+owner=CHN
+controller=CHN
+add_core=CHN
+add_core=KSK
+add_core=PEO
+trade_goods = coal
+life_rating = 35

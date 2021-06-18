@@ -1,0 +1,6 @@
+owner=ANV
+controller=ANV
+add_core=ANV
+trade_goods = coal
+life_rating = 45
+fort = 1

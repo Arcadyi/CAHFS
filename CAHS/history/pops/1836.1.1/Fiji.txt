@@ -1,0 +1,263 @@
+2454 = {
+	soldiers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 383
+	}
+
+	artisans=
+	{
+		culture = melanesian
+		religion = animist
+		size= 188
+	}
+
+	clergymen=
+	{
+		culture = melanesian
+		religion = animist
+		size= 28
+	}
+
+	bureaucrats=
+	{
+		culture = melanesian
+		religion = animist
+		size= 3
+	}
+
+	officers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = melanesian
+		religion = animist
+		size= 35
+	}
+
+	farmers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 9417
+	}
+
+	soldiers=
+	{
+		culture = melanesian
+		religion = orthodox
+		size= 14
+	}
+
+	artisans=
+	{
+		culture = melanesian
+		religion = orthodox
+		size= 202
+	}
+
+	clergymen=
+	{
+		culture = melanesian
+		religion = orthodox
+		size= 29
+	}
+
+	bureaucrats=
+	{
+		culture = melanesian
+		religion = orthodox
+		size= 3
+	}
+
+	officers=
+	{
+		culture = melanesian
+		religion = orthodox
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = melanesian
+		religion = orthodox
+		size= 38
+	}
+
+	farmers=
+	{
+		culture = melanesian
+		religion = orthodox
+		size= 97
+	}
+
+	soldiers=
+	{
+		culture = yuzhny
+		religion = orthodox
+		size= 360
+	}
+
+	artisans=
+	{
+		culture = yuzhny
+		religion = orthodox
+		size= 1403
+	}
+
+	clergymen=
+	{
+		culture = yuzhny
+		religion = orthodox
+		size= 202
+	}
+
+	bureaucrats=
+	{
+		culture = yuzhny
+		religion = orthodox
+		size= 22
+	}
+
+	officers=
+	{
+		culture = yuzhny
+		religion = orthodox
+		size= 26
+	}
+
+	aristocrats=
+	{
+		culture = yuzhny
+		religion = orthodox
+		size= 262
+	}
+
+	farmers=
+	{
+		culture = yuzhny
+		religion = orthodox
+		size= 7273
+	}
+
+}
+2520 = {
+	soldiers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 32
+	}
+
+	artisans=
+	{
+		culture = melanesian
+		religion = animist
+		size= 17
+	}
+
+	clergymen=
+	{
+		culture = melanesian
+		religion = animist
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = melanesian
+		religion = animist
+		size= 3
+	}
+
+	farmers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 861
+	}
+
+	artisans=
+	{
+		culture = melanesian
+		religion = orthodox
+		size= 18
+	}
+
+	clergymen=
+	{
+		culture = melanesian
+		religion = orthodox
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = melanesian
+		religion = orthodox
+		size= 3
+	}
+
+	farmers=
+	{
+		culture = melanesian
+		religion = orthodox
+		size= 11
+	}
+
+	artisans=
+	{
+		culture = yuzhny
+		religion = orthodox
+		size= 127
+	}
+
+	clergymen=
+	{
+		culture = yuzhny
+		religion = orthodox
+		size= 19
+	}
+
+	aristocrats=
+	{
+		culture = yuzhny
+		religion = orthodox
+		size= 23
+	}
+
+	soldiers=
+	{
+		culture = yuzhny
+		religion = orthodox
+		size= 33
+	}
+
+	bureaucrats=
+	{
+		culture = yuzhny
+		religion = orthodox
+		size= 3
+	}
+
+	officers=
+	{
+		culture = yuzhny
+		religion = orthodox
+		size= 3
+	}
+
+	farmers=
+	{
+		culture = yuzhny
+		religion = orthodox
+		size= 659
+	}
+
+}

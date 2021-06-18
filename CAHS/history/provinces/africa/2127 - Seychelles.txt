@@ -1,0 +1,6 @@
+owner=SOF
+controller=SOF
+trade_goods = fruit
+life_rating = 35
+terrain = small_island
+naval_base = 1

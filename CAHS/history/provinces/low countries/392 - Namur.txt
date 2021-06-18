@@ -1,0 +1,7 @@
+owner=ANV
+controller=ANV
+add_core=BEL
+add_core=WLL
+trade_goods = iron
+life_rating = 35
+fort = 1

@@ -1,0 +1,5 @@
+owner=VNZ
+controller=X11
+add_core=VNZ
+trade_goods = cattle
+life_rating = 31

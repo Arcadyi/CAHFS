@@ -1,0 +1,6 @@
+owner=CHN
+controller=CHN
+add_core=CHN
+add_core=KSK
+trade_goods = cattle
+life_rating = 35

@@ -1,0 +1,7 @@
+owner=SPA
+controller=SPA
+trade_goods = tea
+life_rating = 32
+add_core=CHI
+add_core=MNX
+colonial=2

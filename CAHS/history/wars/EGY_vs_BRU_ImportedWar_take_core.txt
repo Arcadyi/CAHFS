@@ -1,0 +1,15 @@
+name = "Mamlukean Reconquest of Ambon"
+
+1763.6.10 = {
+	add_attacker = EGY
+	add_defender = BRU
+	add_defender = BAU
+	add_defender = DJA
+
+	war_goal = {
+		casus_belli = acquire_core_state
+		actor = EGY
+		receiver = BRU
+		state_province_id = 1449
+	}
+}

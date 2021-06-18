@@ -1,0 +1,8 @@
+owner=MEW
+controller=MUL
+add_core=HND
+add_core=MEW
+add_core=PTL
+trade_goods = fish
+life_rating = 32
+naval_base = 1

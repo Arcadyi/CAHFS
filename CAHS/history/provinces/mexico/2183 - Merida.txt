@@ -1,0 +1,13 @@
+owner=YUC
+controller=YUC
+add_core=XIU
+add_core=YUC
+trade_goods = grain
+life_rating = 35
+naval_base = 2
+state_building=
+{
+	level=1
+	building = regular_clothes_factory
+	upgrade = yes
+}

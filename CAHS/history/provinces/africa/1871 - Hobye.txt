@@ -1,0 +1,8 @@
+owner=HBY
+controller=ETH
+add_core=ADA
+add_core=HBY
+add_core=SOM
+trade_goods = grain
+life_rating = 31
+terrain = semidesert

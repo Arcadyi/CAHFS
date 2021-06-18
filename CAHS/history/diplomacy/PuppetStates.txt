@@ -1,0 +1,216 @@
+vassal=
+{
+	first="SPA"
+	second="X04"
+	start_date="1673.11.15"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="SPA"
+	second="TRI"
+	start_date="1673.11.15"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="SPA"
+	second="TUN"
+	start_date="1673.11.15"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="SPA"
+	second="EGY"
+	start_date="1673.11.15"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="SPA"
+	second="LOU"
+	start_date="1725.5.30"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="SPA"
+	second="USA"
+	start_date="1725.8.30"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="SPA"
+	second="SUN"
+	start_date="1755.3.18"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="SPA"
+	second="URU"
+	start_date="1765.7.11"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="RUS"
+	second="GEO"
+	start_date="1574.7.22"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="RUS"
+	second="NOR"
+	start_date="1657.8.28"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="RUS"
+	second="X01"
+	start_date="1658.8.7"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="RUS"
+	second="X02"
+	start_date="1675.1.9"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="RUS"
+	second="X03"
+	start_date="1675.7.24"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="RUS"
+	second="X12"
+	start_date="1695.2.13"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="RUS"
+	second="X06"
+	start_date="1720.10.29"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="RUS"
+	second="NOV"
+	start_date="1725.12.15"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="GER"
+	second="YUG"
+	start_date="1725.12.15"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="GER"
+	second="YUG"
+	start_date="1725.12.15"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="RUS"
+	second="VRM"
+	start_date="1725.12.16"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="RUS"
+	second="X13"
+	start_date="1725.12.18"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="PER"
+	second="ALH"
+	start_date="1700.9.2"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="BRU"
+	second="BAU"
+	start_date="1754.5.29"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="OIR"
+	second="KHA"
+	start_date="1434.1.1"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="ARP"
+	second="SIO"
+	start_date="1767.9.3"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="CIA"
+	second="ICH"
+	start_date="1765.7.9"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="ANV"
+	second="CAL"
+	start_date="1709.5.16"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="ANV"
+	second="CHL"
+	start_date="1709.5.27"
+	end_date="1936.1.1"
+}
+

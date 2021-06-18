@@ -1,0 +1,6 @@
+owner=NHY
+controller=ARP
+add_core=BLA
+add_core=NHY
+trade_goods = cattle
+life_rating = 35

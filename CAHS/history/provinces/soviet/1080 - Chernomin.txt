@@ -1,0 +1,14 @@
+owner=RUS
+controller=RUS
+add_core=CHI
+add_core=MCK
+add_core=SOL
+trade_goods = cattle
+life_rating = 35
+colonial=2
+state_building=
+{
+	level=1
+	building = luxury_furniture_factory
+	upgrade = yes
+}

@@ -1,0 +1,8 @@
+owner=X13
+controller=X13
+add_core=ABO
+add_core=AUK
+add_core=X13
+trade_goods = wool
+life_rating = 32
+naval_base = 2

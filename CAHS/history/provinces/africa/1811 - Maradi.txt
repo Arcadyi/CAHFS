@@ -1,0 +1,7 @@
+owner=AYR
+controller=AYR
+add_core=AYR
+add_core=KAN
+trade_goods = wool
+life_rating = 32
+terrain = semidesert

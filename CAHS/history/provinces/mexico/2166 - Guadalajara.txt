@@ -1,0 +1,5 @@
+owner=YUC
+controller=TON
+add_core=TRS
+trade_goods = timber
+life_rating = 35

@@ -1,0 +1,6 @@
+owner=SOF
+controller=SOF
+trade_goods = fish
+life_rating = 35
+terrain = savanna
+naval_base = 1

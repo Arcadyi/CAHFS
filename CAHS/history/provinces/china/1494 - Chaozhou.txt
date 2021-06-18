@@ -1,0 +1,6 @@
+owner=MNX
+controller=JAP
+trade_goods = silk
+add_core=CHI
+add_core=MNX
+life_rating = 32

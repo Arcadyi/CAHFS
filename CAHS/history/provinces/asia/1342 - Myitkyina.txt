@@ -1,0 +1,4 @@
+owner=BNG
+controller=BNG
+trade_goods = grain
+life_rating = 33

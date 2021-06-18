@@ -1,0 +1,142 @@
+252 = {
+	soldiers=
+	{
+		culture = icelandic
+		religion = catholic
+		size= 184
+	}
+
+	artisans=
+	{
+		culture = icelandic
+		religion = catholic
+		size= 66
+	}
+
+	clergymen=
+	{
+		culture = icelandic
+		religion = catholic
+		size= 11
+	}
+
+	officers=
+	{
+		culture = icelandic
+		religion = catholic
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = icelandic
+		religion = catholic
+		size= 27
+	}
+
+	farmers=
+	{
+		culture = icelandic
+		religion = catholic
+		size= 6271
+	}
+
+	artisans=
+	{
+		culture = icelandic
+		religion = protestant
+		size= 73
+	}
+
+	clergymen=
+	{
+		culture = icelandic
+		religion = protestant
+		size= 12
+	}
+
+	bureaucrats=
+	{
+		culture = icelandic
+		religion = protestant
+		size= 2
+	}
+
+	officers=
+	{
+		culture = icelandic
+		religion = protestant
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = icelandic
+		religion = protestant
+		size= 31
+	}
+
+	soldiers=
+	{
+		culture = icelandic
+		religion = orthodox
+		size= 197
+	}
+
+	artisans=
+	{
+		culture = icelandic
+		religion = orthodox
+		size= 420
+	}
+
+	clergymen=
+	{
+		culture = icelandic
+		religion = orthodox
+		size= 68
+	}
+
+	bureaucrats=
+	{
+		culture = icelandic
+		religion = orthodox
+		size= 10
+	}
+
+	officers=
+	{
+		culture = icelandic
+		religion = orthodox
+		size= 22
+	}
+
+	aristocrats=
+	{
+		culture = icelandic
+		religion = orthodox
+		size= 177
+	}
+
+	farmers=
+	{
+		culture = icelandic
+		religion = orthodox
+		size= 6139
+	}
+
+	soldiers=
+	{
+		culture = icelandic
+		religion = protestant
+		size= 11
+	}
+
+	farmers=
+	{
+		culture = icelandic
+		religion = protestant
+		size= 304
+	}
+
+}

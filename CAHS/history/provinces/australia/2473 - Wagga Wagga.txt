@@ -1,0 +1,7 @@
+owner=AUW
+controller=AUW
+add_core=ABO
+add_core=AUW
+trade_goods = grain
+life_rating = 20
+terrain = savanna

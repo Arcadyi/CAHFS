@@ -1,0 +1,8 @@
+owner=MDO
+controller=BNG
+add_core=MDO
+add_core=TIB
+add_core=CHI
+add_core=MNX
+trade_goods = cattle
+life_rating = 32

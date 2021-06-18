@@ -1,0 +1,6 @@
+owner=ANV
+controller=ANV
+add_core=ANV
+add_core=OCC
+trade_goods = coal
+life_rating = 45

@@ -1,0 +1,7 @@
+owner=MLC
+controller=BNG
+add_core=IDO
+add_core=MLC
+add_core=SIA
+trade_goods = iron
+life_rating = 35

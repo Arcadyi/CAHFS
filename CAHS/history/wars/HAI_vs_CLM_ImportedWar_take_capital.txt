@@ -1,0 +1,14 @@
+name = "2nd Haitian-Colombian Imperialist War"
+
+1763.5.18 = {
+	add_attacker = HAI
+	add_defender = CLM
+
+	war_goal = {
+		casus_belli = annex_core_country
+		actor = HAI
+		receiver = CLM
+		country = CLM
+		state_province_id = 2269
+	}
+}

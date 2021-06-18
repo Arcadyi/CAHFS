@@ -1,0 +1,5 @@
+owner=FUL
+controller=FUL
+trade_goods = wool
+life_rating = 20
+terrain = semidesert

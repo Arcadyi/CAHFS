@@ -1,0 +1,9 @@
+owner=TRX
+controller=BNG
+add_core=TRX
+add_core=XIN
+add_core=CHI
+add_core=MNX
+add_core=YRK
+trade_goods = sulphur
+life_rating = 32

@@ -1,0 +1,9 @@
+owner=DJA
+controller=DJA
+add_core=DJA
+add_core=DLI
+add_core=MLY
+add_core=PLB
+trade_goods = grain
+life_rating = 35
+naval_base = 2

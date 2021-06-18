@@ -1,0 +1,5 @@
+owner=ANV
+controller=ANV
+trade_goods = coffee
+life_rating = 35
+naval_base = 1

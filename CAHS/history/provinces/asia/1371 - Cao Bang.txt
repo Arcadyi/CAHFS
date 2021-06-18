@@ -1,0 +1,4 @@
+owner=DAI
+controller=DAI
+trade_goods = grain
+life_rating = 33

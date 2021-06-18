@@ -1,0 +1,9 @@
+owner=RUS
+controller=CHH
+add_core=KHA
+add_core=MGL
+add_core=CHI
+add_core=MNX
+trade_goods = timber
+life_rating = 32
+colonial=2

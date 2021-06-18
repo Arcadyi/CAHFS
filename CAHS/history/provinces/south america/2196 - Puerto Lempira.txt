@@ -1,0 +1,5 @@
+owner=CLM
+controller=HAI
+trade_goods = timber
+life_rating = 33
+naval_base = 1

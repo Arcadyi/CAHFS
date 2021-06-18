@@ -1,0 +1,354 @@
+2237 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 1185
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 119
+	}
+
+	slaves=
+	{
+		culture = guajiro
+		religion = animist
+		size= 1622
+	}
+
+	soldiers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 165
+	}
+
+	artisans=
+	{
+		culture = guajiro
+		religion = animist
+		size= 1
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = protestant
+		size= 3
+	}
+
+	artisans=
+	{
+		culture = north_andean
+		religion = protestant
+		size= 2
+	}
+
+	artisans=
+	{
+		culture = carribean
+		religion = animist
+		size= 21
+	}
+
+	clergymen=
+	{
+		culture = carribean
+		religion = animist
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = carribean
+		religion = animist
+		size= 5
+	}
+
+	slaves=
+	{
+		culture = afro_brazilian
+		religion = catholic
+		size= 301
+	}
+
+	soldiers=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 31
+	}
+
+	artisans=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 44
+	}
+
+	clergymen=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 7
+	}
+
+	officers=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 10
+	}
+
+	bureaucrats=
+	{
+		culture = carribean
+		religion = animist
+		size= 1
+	}
+
+	officers=
+	{
+		culture = carribean
+		religion = animist
+		size= 1
+	}
+
+	bureaucrats=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 2
+	}
+
+	slaves=
+	{
+		culture = afro_norse
+		religion = orthodox
+		size= 7051
+	}
+
+	soldiers=
+	{
+		culture = hvitrduptling
+		religion = orthodox
+		size= 714
+	}
+
+	artisans=
+	{
+		culture = hvitrduptling
+		religion = orthodox
+		size= 379
+	}
+
+	clergymen=
+	{
+		culture = hvitrduptling
+		religion = orthodox
+		size= 62
+	}
+
+	bureaucrats=
+	{
+		culture = hvitrduptling
+		religion = orthodox
+		size= 19
+	}
+
+	officers=
+	{
+		culture = hvitrduptling
+		religion = orthodox
+		size= 27
+	}
+
+	aristocrats=
+	{
+		culture = hvitrduptling
+		religion = orthodox
+		size= 80
+	}
+
+}
+2238 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 431
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 42
+	}
+
+	slaves=
+	{
+		culture = guajiro
+		religion = animist
+		size= 593
+	}
+
+	soldiers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 55
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 1
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = protestant
+		size= 1
+	}
+
+	artisans=
+	{
+		culture = north_andean
+		religion = protestant
+		size= 1
+	}
+
+	artisans=
+	{
+		culture = carribean
+		religion = animist
+		size= 7
+	}
+
+	slaves=
+	{
+		culture = afro_brazilian
+		religion = catholic
+		size= 109
+	}
+
+	soldiers=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 10
+	}
+
+	artisans=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 16
+	}
+
+	aristocrats=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 4
+	}
+
+	clergymen=
+	{
+		culture = carribean
+		religion = animist
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = carribean
+		religion = animist
+		size= 1
+	}
+
+	clergymen=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 2
+	}
+
+	bureaucrats=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 1
+	}
+
+	officers=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 1
+	}
+
+	slaves=
+	{
+		culture = afro_norse
+		religion = orthodox
+		size= 2573
+	}
+
+	soldiers=
+	{
+		culture = hvitrduptling
+		religion = orthodox
+		size= 243
+	}
+
+	artisans=
+	{
+		culture = hvitrduptling
+		religion = orthodox
+		size= 129
+	}
+
+	clergymen=
+	{
+		culture = hvitrduptling
+		religion = orthodox
+		size= 21
+	}
+
+	bureaucrats=
+	{
+		culture = hvitrduptling
+		religion = orthodox
+		size= 6
+	}
+
+	officers=
+	{
+		culture = hvitrduptling
+		religion = orthodox
+		size= 9
+	}
+
+	aristocrats=
+	{
+		culture = hvitrduptling
+		religion = orthodox
+		size= 27
+	}
+
+}

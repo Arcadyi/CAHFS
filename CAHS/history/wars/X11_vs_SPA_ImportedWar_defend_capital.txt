@@ -1,0 +1,22 @@
+name = "Santa Yennifer Lopeth War for Independence"
+
+1765.9.10 = {
+	add_attacker = X11
+	add_attacker = CUB
+	add_attacker = YUC
+	add_attacker = BOL
+	add_attacker = VNZ
+	add_defender = SPA
+	add_defender = SUN
+	add_defender = X04
+	add_defender = LOU
+	add_defender = URU
+	add_defender = USA
+
+	war_goal = {
+		casus_belli = become_independent
+		actor = X11
+		receiver = SPA
+		country = X11
+	}
+}

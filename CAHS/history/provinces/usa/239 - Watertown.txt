@@ -1,0 +1,6 @@
+owner=VRM
+controller=VRM
+add_core=AGG
+add_core=VRM
+trade_goods = iron
+life_rating = 35

@@ -1,0 +1,5 @@
+owner=NHY
+controller=NHY
+add_core=NHY
+trade_goods = timber
+life_rating = 31

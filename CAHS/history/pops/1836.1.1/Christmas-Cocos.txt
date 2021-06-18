@@ -1,0 +1,16 @@
+2244 = {
+	farmers=
+	{
+		culture = misri
+		religion = sunni
+		size= 11
+	}
+
+	artisans=
+	{
+		culture = misri
+		religion = sunni
+		size= 1
+	}
+
+}
