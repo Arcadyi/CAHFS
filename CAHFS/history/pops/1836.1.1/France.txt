@@ -2215,98 +2215,98 @@
 414 = {
 	soldiers=
 	{
-		culture = south_german
+		culture = french
 		religion = catholic
 		size= 4018
 	}
 
 	artisans=
 	{
-		culture = south_german
+		culture = french
 		religion = catholic
 		size= 1528
 	}
 
 	clergymen=
 	{
-		culture = south_german
+		culture = french
 		religion = catholic
 		size= 142
 	}
 
 	bureaucrats=
 	{
-		culture = south_german
+		culture = french
 		religion = catholic
 		size= 28
 	}
 
 	officers=
 	{
-		culture = south_german
+		culture = french
 		religion = catholic
 		size= 32
 	}
 
 	aristocrats=
 	{
-		culture = south_german
+		culture = french
 		religion = catholic
 		size= 92
 	}
 
 	farmers=
 	{
-		culture = south_german
+		culture = french
 		religion = catholic
 		size= 37829
 	}
 
 	soldiers=
 	{
-		culture = south_german
+		culture = french
 		religion = protestant
 		size= 3759
 	}
 
 	artisans=
 	{
-		culture = south_german
+		culture = french
 		religion = protestant
 		size= 10307
 	}
 
 	clergymen=
 	{
-		culture = south_german
+		culture = french
 		religion = protestant
 		size= 957
 	}
 
 	bureaucrats=
 	{
-		culture = south_german
+		culture = french
 		religion = protestant
 		size= 192
 	}
 
 	officers=
 	{
-		culture = south_german
+		culture = french
 		religion = protestant
 		size= 214
 	}
 
 	aristocrats=
 	{
-		culture = south_german
+		culture = french
 		religion = protestant
 		size= 619
 	}
 
 	farmers=
 	{
-		culture = south_german
+		culture = french
 		religion = protestant
 		size= 24817
 	}

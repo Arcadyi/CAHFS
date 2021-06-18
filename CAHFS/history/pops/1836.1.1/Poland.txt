@@ -4461,49 +4461,49 @@
 
 	soldiers=
 	{
-		culture = russian
+		culture = north_german
 		religion = orthodox
 		size= 756
 	}
 
 	artisans=
 	{
-		culture = russian
+		culture = north_german
 		religion = orthodox
 		size= 116
 	}
 
 	clergymen=
 	{
-		culture = russian
+		culture = north_german
 		religion = orthodox
 		size= 962
 	}
 
 	bureaucrats=
 	{
-		culture = russian
+		culture = north_german
 		religion = orthodox
 		size= 145
 	}
 
 	officers=
 	{
-		culture = russian
+		culture = north_german
 		religion = orthodox
 		size= 104
 	}
 
 	aristocrats=
 	{
-		culture = russian
+		culture = north_german
 		religion = orthodox
 		size= 675
 	}
 
 	farmers=
 	{
-		culture = russian
+		culture = north_german
 		religion = orthodox
 		size= 30982
 	}
