@@ -1,5 +1,5 @@
-owner=YUG
-controller=YUG
+owner=GER
+controller=GER
 add_core=CRO
 add_core=STY
 add_core=YUG
