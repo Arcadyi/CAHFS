@@ -1,6 +1,6 @@
 name = "A California Assisted Home for Seniors Conversion"
-path = "mod/CAHS"
-user_dir = "CAHS"
+path = "mod/CAHFS"
+user_dir = "CAHFS"
 replace = "history/provinces"
 replace = "history/countries"
 replace = "history/diplomacy"
