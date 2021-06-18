@@ -1,0 +1,7 @@
+#############################################;;;;;;;;;;;;;;x
+negotiated_state_transfer;Negotiated State Transfer;;;;;;;;;;;;;x
+negotiated_state_transfer_desc;Transfer a state or colonial region to another country with no effect on infamy, prestige, or jingoism and without a truce at the end;;;;;;;;;;;;x
+negotiated_state_transfer_short;Transfer $STATE$ from $RECIPIENT$;;;;;;;;;;;;;x
+negotiated_state_transfer_setup;Transfer $STATE$ from $RECIPIENT$;;;;;;;;;;;;x
+NORMAL_WAR_NEGOTIATE_STATE_NAME;$ORDER$$SECOND$ Transfer of $STATE$ to $FIRST_COUNTRY$;;;;;;;;;;;;x
+AGRESSION_WAR_NEGOTIATE_STATE_NAME;$ORDER$$SECOND$ Transfer of $STATE$ to $FIRST_COUNTRY$;;;;;;;;;;;;x
