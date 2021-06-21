@@ -1,5 +1,5 @@
-owner=EGY
-controller=EGY
+owner=ETH
+controller=ETH
 add_core=ARA
 add_core=MHR
 trade_goods = fish

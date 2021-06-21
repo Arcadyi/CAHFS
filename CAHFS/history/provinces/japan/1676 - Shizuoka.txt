@@ -1,5 +1,5 @@
-owner=IMG
-controller=IMG
+owner=JAP
+controller=JAP
 add_core=IMG
 add_core=JAP
 trade_goods = precious_metal

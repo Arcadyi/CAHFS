@@ -4,4 +4,4 @@ add_core=ANV
 add_core=OCC
 add_core=PRO
 trade_goods = wool
-life_rating = 45
+life_rating = 35

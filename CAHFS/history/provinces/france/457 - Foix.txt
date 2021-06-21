@@ -4,4 +4,4 @@ add_core=ANV
 add_core=GYN
 add_core=OCC
 trade_goods = grain
-life_rating = 45
+life_rating = 35

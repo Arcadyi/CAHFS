@@ -3539,7 +3539,7 @@
 	{
 		culture = french
 		religion = catholic
-		size= 128320
+		size= 208320
 	}
 
 	soldiers=

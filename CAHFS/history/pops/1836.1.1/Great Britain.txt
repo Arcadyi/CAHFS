@@ -4264,7 +4264,7 @@
 	{
 		culture = english
 		religion = catholic
-		size= 284568
+		size= 204568
 	}
 
 	soldiers=

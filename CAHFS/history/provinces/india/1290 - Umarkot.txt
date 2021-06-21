@@ -1,5 +1,5 @@
-owner=PER
-controller=MEW
+owner=MUL
+controller=MUL
 add_core=HND
 trade_goods = cattle
 life_rating = 32

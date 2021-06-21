@@ -3,4 +3,4 @@ controller=ANV
 add_core=BEL
 add_core=WLL
 trade_goods = coal
-life_rating = 45
+life_rating = 35
