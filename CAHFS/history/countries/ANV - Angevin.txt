@@ -48,7 +48,9 @@ consciousness = 2.51742
 nonstate_consciousness= 0.00485862
 
 # Technologies
+army_command_principle = 1
 basic_chemistry = 1
+military_staff_system = 1
 bronze_muzzle_loaded_artillery = 1
 classicism_n_early_romanticism = 1
 clipper_design = 1

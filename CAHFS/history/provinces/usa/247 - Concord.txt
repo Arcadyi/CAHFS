@@ -1,6 +1,5 @@
-owner=AGG
-controller=AGG
-add_core=ABE
-add_core=AGG
+owner=NOV
+controller=NOV
+add_core=NOV
 trade_goods = timber
 life_rating = 35

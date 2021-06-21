@@ -1,6 +1,5 @@
-owner=CIA
-controller=CIA
-add_core=AGG
-add_core=CIA
+owner=NOV
+controller=NOV
+add_core=NOV
 trade_goods = grain
 life_rating = 35

@@ -1,4 +1,5 @@
-owner=VRM
-controller=AGG
+owner=NOV
+controller=NOV
+add_core=NOV
 trade_goods = timber
 life_rating = 35
