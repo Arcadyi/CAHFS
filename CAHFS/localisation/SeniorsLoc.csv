@@ -7,3 +7,13 @@ accept_russian_cultures_title;Unite Our People;x
 accept_russian_cultures_desc;We must strive to see across the small divides that separate us, and work together as one.;x
 accept_spanish_cultures_title;Unite Our People;x
 accept_spanish_cultures_desc;We must strive to see across the small divides that separate us, and work together as one.;x
+EUR;The United States of Europe;;;;;;;;;;;;;x,,
+EUR_democracy;The United States of Europe;;;;;;;;;;;;x
+EUR_absolute_monarchy;The Empire;;;;;;;;;;;;x
+EUR_prussian_constitutionalism;The European Empire;;;;;;;;;;;;x
+EUR_hms_government;The European Empire;;;;;;;;;;;;x
+EUR_presidential_dictatorship;The Regime;;;;;;;;;;;;x
+EUR_bourgeois_dictatorship;The Free State of Europe;;;;;;;;;;;;x
+EUR_proletarian_dictatorship;The Socialist Republic of Europe;;;;;;;;;;;;x
+EUR_fascist_dictatorship;The Union of Europe;;;;;;;;;;;;x
+EUR_ADJ;European;;;;;;;;;;;;;x,,

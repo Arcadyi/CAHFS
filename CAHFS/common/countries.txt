@@ -1,3 +1,6 @@
+#Townes' New Tag:
+EUR		= "countries/Europe.txt"
+
 AAA = "countries/AAA.txt"
 AAC = "countries/Aachen.txt"
 ABB = "countries/Dongola.txt"

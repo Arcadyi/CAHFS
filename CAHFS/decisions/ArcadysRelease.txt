@@ -1,0 +1,49 @@
+political_decisions = {
+    end_arcadys_suffering = {
+        picture = form_south_german_confederation
+        potential = {
+			tag = GER
+			NOT = { exists = EUR }
+        }
+
+        allow = {
+			OR = {
+				relation = {
+					who = ANV
+					value = 200
+				}
+				relation = {
+					who = ANV
+					value = 200
+				}
+			}
+        }
+
+        effect = {
+            inherit = ANV
+			inherit = FRA
+			change_tag = EUR
+			primary_culture = french
+			add_accepted_culture = czech
+			add_accepted_culture = english
+			add_accepted_culture = occitan
+			add_accepted_culture = breton
+			add_accepted_culture = irish
+        }
+
+        ai_will_do = { factor = 0 }
+    }
+	
+	ducks_big_phat_greek_wedding = {
+		potential = {
+			exists = X06
+			tag = RUS
+		}
+		allow = { war = no }
+		effect = {
+			inherit = X06
+			badboy = -1000
+		}
+	}
+}
+		
